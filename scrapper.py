@@ -57,7 +57,7 @@ def getNextPageReviewDetails(response,rev_no):
 web_url =open("final_url.txt" ,"r")
 urlList=web_url.read().splitlines()
 web_url.close()
-# urlList = ['https://clutch.co/profile/unicsoft#reviews']
+
 for url in urlList:
     # str = url
     a,b = url.split('#',1)
