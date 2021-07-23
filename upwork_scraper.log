@@ -1,0 +1,2021 @@
+2021-07-06 12:48:03:root:INFO:started request
+2021-07-06 12:48:05:root:INFO:ended request! Time taken : 1.6980845928192139
+2021-07-06 12:48:06:root:INFO:started request
+2021-07-06 12:48:07:root:ERROR:Exception occurred: something went wrong!
+SOCKSHTTPSConnectionPool(host='clutch.co', port=443): Max retries exceeded with url: /developers/artificial-intelligence?page=0 (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x0FB91C70>: Failed to establish a new connection: 0x04: Host unreachable'))
+2021-07-13 10:45:38:root:INFO:started request
+2021-07-13 10:46:44:root:INFO:ended request! Time taken : 65.80962419509888
+2021-07-13 10:46:48:root:INFO:started request
+2021-07-13 10:46:49:root:ERROR:Exception occurred: something went wrong!
+SOCKSHTTPSConnectionPool(host='clutch.co', port=443): Max retries exceeded with url: /developers/artificial-intelligence?page=0 (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x01440A50>: Failed to establish a new connection: 0x04: Host unreachable'))
+2021-07-13 10:46:56:root:INFO:started request
+2021-07-13 10:46:59:root:INFO:ended request! Time taken : 2.306560516357422
+2021-07-13 10:47:00:root:INFO:started request
+2021-07-13 10:47:01:root:ERROR:Exception occurred: something went wrong!
+SOCKSHTTPSConnectionPool(host='clutch.co', port=443): Max retries exceeded with url: /developers/artificial-intelligence?page=0 (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x0E50FA10>: Failed to establish a new connection: 0x04: Host unreachable'))
+2021-07-13 15:55:19:root:INFO:started request
+2021-07-13 15:55:21:root:INFO:ended request! Time taken : 1.6695616245269775
+2021-07-13 15:55:24:root:INFO:started request
+2021-07-13 15:55:26:root:INFO:ended request! Time taken : 2.090759515762329
+2021-07-13 15:55:29:root:INFO:started request
+2021-07-13 15:55:32:root:INFO:ended request! Time taken : 2.18666934967041
+2021-07-13 15:55:35:root:INFO:started request
+2021-07-13 15:55:38:root:INFO:ended request! Time taken : 2.741884231567383
+2021-07-13 15:55:41:root:INFO:started request
+2021-07-13 15:55:43:root:INFO:ended request! Time taken : 2.3928110599517822
+2021-07-13 15:55:46:root:INFO:started request
+2021-07-13 15:55:49:root:INFO:ended request! Time taken : 2.442328691482544
+2021-07-13 15:55:52:root:INFO:started request
+2021-07-13 15:55:54:root:INFO:ended request! Time taken : 2.336517333984375
+2021-07-13 15:55:58:root:INFO:started request
+2021-07-13 15:56:01:root:INFO:ended request! Time taken : 2.7567152976989746
+2021-07-13 15:56:04:root:INFO:started request
+2021-07-13 15:56:07:root:INFO:ended request! Time taken : 2.8388967514038086
+2021-07-13 15:56:10:root:INFO:started request
+2021-07-13 15:56:12:root:INFO:ended request! Time taken : 2.554900884628296
+2021-07-13 15:56:15:root:INFO:started request
+2021-07-13 15:56:17:root:INFO:ended request! Time taken : 1.9824073314666748
+2021-07-13 15:56:20:root:INFO:started request
+2021-07-13 15:56:22:root:INFO:ended request! Time taken : 2.517193078994751
+2021-07-13 15:56:26:root:INFO:started request
+2021-07-13 15:56:27:root:INFO:ended request! Time taken : 1.838529348373413
+2021-07-13 15:56:30:root:INFO:started request
+2021-07-13 15:56:32:root:INFO:ended request! Time taken : 1.9017314910888672
+2021-07-13 15:56:35:root:INFO:started request
+2021-07-13 15:56:37:root:INFO:ended request! Time taken : 1.7365021705627441
+2021-07-13 15:56:39:root:INFO:started request
+2021-07-13 15:56:41:root:INFO:ended request! Time taken : 1.9973697662353516
+2021-07-13 15:56:44:root:INFO:started request
+2021-07-13 15:56:46:root:INFO:ended request! Time taken : 1.9713551998138428
+2021-07-13 15:56:49:root:INFO:started request
+2021-07-13 15:56:51:root:INFO:ended request! Time taken : 1.988898754119873
+2021-07-13 15:56:54:root:INFO:started request
+2021-07-13 15:56:56:root:INFO:ended request! Time taken : 2.2689690589904785
+2021-07-13 15:56:59:root:INFO:started request
+2021-07-13 15:57:01:root:INFO:ended request! Time taken : 1.765714168548584
+2021-07-13 15:57:06:root:INFO:started request
+2021-07-13 15:57:07:root:INFO:ended request! Time taken : 1.8521640300750732
+2021-07-13 15:57:12:root:INFO:started request
+2021-07-13 15:57:14:root:INFO:ended request! Time taken : 1.971095085144043
+2021-07-13 15:57:17:root:INFO:started request
+2021-07-13 15:57:39:root:INFO:ended request! Time taken : 21.51592206954956
+2021-07-13 15:57:42:root:INFO:started request
+2021-07-13 15:57:44:root:INFO:ended request! Time taken : 2.5111963748931885
+2021-07-13 15:57:47:root:INFO:started request
+2021-07-13 15:57:50:root:INFO:ended request! Time taken : 2.3993618488311768
+2021-07-13 15:57:53:root:INFO:started request
+2021-07-13 15:57:55:root:INFO:ended request! Time taken : 2.1026759147644043
+2021-07-13 15:57:58:root:INFO:started request
+2021-07-13 15:58:00:root:INFO:ended request! Time taken : 1.9813122749328613
+2021-07-13 15:58:05:root:INFO:started request
+2021-07-13 15:58:07:root:INFO:ended request! Time taken : 2.555678606033325
+2021-07-13 15:58:11:root:INFO:started request
+2021-07-13 15:58:13:root:INFO:ended request! Time taken : 2.1851024627685547
+2021-07-13 15:58:17:root:INFO:started request
+2021-07-13 15:58:19:root:INFO:ended request! Time taken : 1.9708716869354248
+2021-07-13 15:58:22:root:INFO:started request
+2021-07-13 15:58:25:root:INFO:ended request! Time taken : 2.2613465785980225
+2021-07-13 15:58:28:root:INFO:started request
+2021-07-13 15:58:30:root:INFO:ended request! Time taken : 1.958894968032837
+2021-07-13 15:58:33:root:INFO:started request
+2021-07-13 15:58:36:root:INFO:ended request! Time taken : 2.7452468872070312
+2021-07-13 15:58:39:root:INFO:started request
+2021-07-13 15:58:42:root:INFO:ended request! Time taken : 2.9084603786468506
+2021-07-13 15:58:46:root:INFO:started request
+2021-07-13 15:58:48:root:INFO:ended request! Time taken : 2.21846079826355
+2021-07-13 15:58:52:root:INFO:started request
+2021-07-13 15:58:54:root:INFO:ended request! Time taken : 2.2662487030029297
+2021-07-13 15:58:58:root:INFO:started request
+2021-07-13 15:59:01:root:INFO:ended request! Time taken : 3.582200288772583
+2021-07-13 15:59:05:root:INFO:started request
+2021-07-13 15:59:08:root:INFO:ended request! Time taken : 2.9328255653381348
+2021-07-13 15:59:12:root:INFO:started request
+2021-07-13 15:59:14:root:INFO:ended request! Time taken : 2.2195534706115723
+2021-07-13 15:59:17:root:INFO:started request
+2021-07-13 15:59:19:root:INFO:ended request! Time taken : 1.8304994106292725
+2021-07-13 15:59:22:root:INFO:started request
+2021-07-13 15:59:24:root:INFO:ended request! Time taken : 2.4952309131622314
+2021-07-13 15:59:28:root:INFO:started request
+2021-07-13 15:59:30:root:INFO:ended request! Time taken : 1.9524006843566895
+2021-07-13 15:59:33:root:INFO:started request
+2021-07-13 15:59:35:root:INFO:ended request! Time taken : 2.1166248321533203
+2021-07-13 15:59:38:root:INFO:started request
+2021-07-13 15:59:41:root:INFO:ended request! Time taken : 2.546065330505371
+2021-07-13 15:59:45:root:INFO:started request
+2021-07-13 15:59:47:root:INFO:ended request! Time taken : 1.9334948062896729
+2021-07-13 15:59:51:root:INFO:started request
+2021-07-13 15:59:53:root:INFO:ended request! Time taken : 2.0064189434051514
+2021-07-13 15:59:56:root:INFO:started request
+2021-07-13 15:59:58:root:INFO:ended request! Time taken : 2.02115535736084
+2021-07-13 16:00:08:root:INFO:started request
+2021-07-13 16:00:11:root:INFO:ended request! Time taken : 2.6913862228393555
+2021-07-13 16:00:16:root:INFO:started request
+2021-07-13 16:00:19:root:INFO:ended request! Time taken : 2.7269446849823
+2021-07-13 16:00:23:root:INFO:started request
+2021-07-13 16:00:25:root:INFO:ended request! Time taken : 1.8984382152557373
+2021-07-13 16:00:29:root:INFO:started request
+2021-07-13 16:00:31:root:INFO:ended request! Time taken : 1.9359769821166992
+2021-07-13 16:00:35:root:INFO:started request
+2021-07-13 16:00:37:root:INFO:ended request! Time taken : 1.9499316215515137
+2021-07-13 16:00:41:root:INFO:started request
+2021-07-13 16:00:44:root:INFO:ended request! Time taken : 2.863079309463501
+2021-07-13 16:00:48:root:INFO:started request
+2021-07-13 16:00:50:root:INFO:ended request! Time taken : 2.353455066680908
+2021-07-13 16:00:53:root:INFO:started request
+2021-07-13 16:00:55:root:INFO:ended request! Time taken : 1.8172633647918701
+2021-07-13 16:00:59:root:INFO:started request
+2021-07-13 16:01:02:root:INFO:ended request! Time taken : 2.48629093170166
+2021-07-13 16:01:06:root:INFO:started request
+2021-07-13 16:01:07:root:INFO:ended request! Time taken : 1.7309606075286865
+2021-07-13 16:01:12:root:INFO:started request
+2021-07-13 16:01:14:root:INFO:ended request! Time taken : 2.653829574584961
+2021-07-13 16:01:18:root:INFO:started request
+2021-07-13 16:01:20:root:INFO:ended request! Time taken : 2.0955934524536133
+2021-07-13 16:01:23:root:INFO:started request
+2021-07-13 16:01:26:root:INFO:ended request! Time taken : 2.5638539791107178
+2021-07-13 16:01:29:root:INFO:started request
+2021-07-13 16:01:31:root:INFO:ended request! Time taken : 1.8604943752288818
+2021-07-13 16:01:34:root:INFO:started request
+2021-07-13 16:01:36:root:INFO:ended request! Time taken : 2.0570263862609863
+2021-07-13 16:01:39:root:INFO:started request
+2021-07-13 16:01:41:root:INFO:ended request! Time taken : 2.285297155380249
+2021-07-13 16:01:44:root:INFO:started request
+2021-07-13 16:01:46:root:INFO:ended request! Time taken : 2.383570909500122
+2021-07-13 16:01:49:root:INFO:started request
+2021-07-13 16:01:51:root:INFO:ended request! Time taken : 1.693291187286377
+2021-07-13 16:01:54:root:INFO:started request
+2021-07-13 16:01:56:root:INFO:ended request! Time taken : 2.2183706760406494
+2021-07-13 16:02:00:root:INFO:started request
+2021-07-13 16:02:03:root:INFO:ended request! Time taken : 2.6221439838409424
+2021-07-13 16:02:06:root:INFO:started request
+2021-07-13 16:02:08:root:INFO:ended request! Time taken : 1.5767481327056885
+2021-07-13 16:02:11:root:INFO:started request
+2021-07-13 16:02:14:root:INFO:ended request! Time taken : 2.1745166778564453
+2021-07-13 16:02:18:root:INFO:started request
+2021-07-13 16:02:20:root:INFO:ended request! Time taken : 1.9913108348846436
+2021-07-13 16:02:25:root:INFO:started request
+2021-07-13 16:02:27:root:INFO:ended request! Time taken : 1.7265057563781738
+2021-07-13 16:02:31:root:INFO:started request
+2021-07-13 16:02:35:root:INFO:ended request! Time taken : 3.53796648979187
+2021-07-13 16:02:38:root:INFO:started request
+2021-07-13 16:02:40:root:INFO:ended request! Time taken : 1.9016008377075195
+2021-07-13 16:02:43:root:INFO:started request
+2021-07-13 16:02:45:root:INFO:ended request! Time taken : 2.1335251331329346
+2021-07-13 16:02:49:root:INFO:started request
+2021-07-13 16:02:52:root:INFO:ended request! Time taken : 3.1180124282836914
+2021-07-13 16:02:55:root:INFO:started request
+2021-07-13 16:02:57:root:INFO:ended request! Time taken : 1.8306853771209717
+2021-07-13 16:03:01:root:INFO:started request
+2021-07-13 16:03:03:root:INFO:ended request! Time taken : 2.0906758308410645
+2021-07-13 16:03:06:root:INFO:started request
+2021-07-13 16:03:08:root:INFO:ended request! Time taken : 1.991197109222412
+2021-07-13 16:03:12:root:INFO:started request
+2021-07-13 16:03:15:root:INFO:ended request! Time taken : 2.1281285285949707
+2021-07-13 16:03:20:root:INFO:started request
+2021-07-13 16:03:23:root:INFO:ended request! Time taken : 3.517467498779297
+2021-07-13 16:03:26:root:INFO:started request
+2021-07-13 16:03:29:root:INFO:ended request! Time taken : 2.1990652084350586
+2021-07-13 16:03:34:root:INFO:started request
+2021-07-13 16:03:36:root:INFO:ended request! Time taken : 2.0352511405944824
+2021-07-13 16:03:39:root:INFO:started request
+2021-07-13 16:03:41:root:INFO:ended request! Time taken : 1.693258285522461
+2021-07-13 16:03:45:root:INFO:started request
+2021-07-13 16:03:47:root:INFO:ended request! Time taken : 2.0198187828063965
+2021-07-13 16:03:50:root:INFO:started request
+2021-07-13 16:03:52:root:INFO:ended request! Time taken : 1.921259880065918
+2021-07-13 16:03:56:root:INFO:started request
+2021-07-13 16:03:59:root:INFO:ended request! Time taken : 2.0573573112487793
+2021-07-13 16:04:02:root:INFO:started request
+2021-07-13 16:04:04:root:INFO:ended request! Time taken : 2.0101613998413086
+2021-07-13 16:04:08:root:INFO:started request
+2021-07-13 16:04:10:root:INFO:ended request! Time taken : 1.9798381328582764
+2021-07-13 16:04:14:root:INFO:started request
+2021-07-13 16:04:16:root:INFO:ended request! Time taken : 2.1178202629089355
+2021-07-13 16:04:21:root:INFO:started request
+2021-07-13 16:04:24:root:INFO:ended request! Time taken : 2.719686508178711
+2021-07-13 16:04:27:root:INFO:started request
+2021-07-13 16:04:29:root:INFO:ended request! Time taken : 1.7706353664398193
+2021-07-13 16:04:32:root:INFO:started request
+2021-07-13 16:04:35:root:INFO:ended request! Time taken : 3.210151195526123
+2021-07-13 16:04:38:root:INFO:started request
+2021-07-13 16:04:40:root:INFO:ended request! Time taken : 2.08245587348938
+2021-07-13 16:04:43:root:INFO:started request
+2021-07-13 16:04:46:root:INFO:ended request! Time taken : 2.6627559661865234
+2021-07-13 16:04:50:root:INFO:started request
+2021-07-13 16:04:53:root:INFO:ended request! Time taken : 2.9383232593536377
+2021-07-13 16:04:56:root:INFO:started request
+2021-07-13 16:04:59:root:INFO:ended request! Time taken : 2.6535794734954834
+2021-07-13 16:05:04:root:INFO:started request
+2021-07-13 16:05:07:root:INFO:ended request! Time taken : 2.535926103591919
+2021-07-13 16:05:11:root:INFO:started request
+2021-07-13 16:05:13:root:INFO:ended request! Time taken : 2.764975070953369
+2021-07-13 16:05:19:root:INFO:started request
+2021-07-13 16:05:21:root:INFO:ended request! Time taken : 2.0421674251556396
+2021-07-13 16:05:25:root:INFO:started request
+2021-07-13 16:05:27:root:INFO:ended request! Time taken : 1.991792917251587
+2021-07-13 16:05:30:root:INFO:started request
+2021-07-13 16:05:33:root:INFO:ended request! Time taken : 2.0045061111450195
+2021-07-13 16:05:36:root:INFO:started request
+2021-07-13 16:05:37:root:INFO:ended request! Time taken : 1.7414565086364746
+2021-07-13 16:05:41:root:INFO:started request
+2021-07-13 16:05:43:root:INFO:ended request! Time taken : 1.9371109008789062
+2021-07-13 16:05:48:root:INFO:started request
+2021-07-13 16:05:51:root:INFO:ended request! Time taken : 2.991504669189453
+2021-07-13 16:05:56:root:INFO:started request
+2021-07-13 16:05:59:root:INFO:ended request! Time taken : 2.8341193199157715
+2021-07-13 16:06:03:root:INFO:started request
+2021-07-13 16:06:05:root:INFO:ended request! Time taken : 2.3306925296783447
+2021-07-13 16:06:08:root:INFO:started request
+2021-07-13 16:06:10:root:INFO:ended request! Time taken : 2.3437931537628174
+2021-07-13 16:06:15:root:INFO:started request
+2021-07-13 16:06:17:root:INFO:ended request! Time taken : 2.573270797729492
+2021-07-13 16:06:21:root:INFO:started request
+2021-07-13 16:06:24:root:INFO:ended request! Time taken : 2.7457616329193115
+2021-07-13 16:06:28:root:INFO:started request
+2021-07-13 16:06:31:root:INFO:ended request! Time taken : 3.022953510284424
+2021-07-13 16:06:36:root:INFO:started request
+2021-07-13 16:06:39:root:INFO:ended request! Time taken : 2.3876664638519287
+2021-07-13 16:06:41:root:INFO:started request
+2021-07-13 16:06:43:root:INFO:ended request! Time taken : 2.0473744869232178
+2021-07-13 16:06:46:root:INFO:started request
+2021-07-13 16:06:49:root:INFO:ended request! Time taken : 2.5003104209899902
+2021-07-13 16:06:52:root:INFO:started request
+2021-07-13 16:06:54:root:INFO:ended request! Time taken : 1.8358676433563232
+2021-07-13 16:06:58:root:INFO:started request
+2021-07-13 16:07:00:root:INFO:ended request! Time taken : 2.4606330394744873
+2021-07-13 16:07:03:root:INFO:started request
+2021-07-13 16:07:05:root:INFO:ended request! Time taken : 1.7350609302520752
+2021-07-13 16:07:08:root:INFO:started request
+2021-07-13 16:07:10:root:INFO:ended request! Time taken : 1.8188457489013672
+2021-07-13 16:07:13:root:INFO:started request
+2021-07-13 16:07:14:root:INFO:ended request! Time taken : 1.8956806659698486
+2021-07-13 16:07:17:root:INFO:started request
+2021-07-13 16:07:20:root:INFO:ended request! Time taken : 2.560570478439331
+2021-07-13 16:07:23:root:INFO:started request
+2021-07-13 16:07:25:root:INFO:ended request! Time taken : 1.997668981552124
+2021-07-13 16:07:28:root:INFO:started request
+2021-07-13 16:07:30:root:INFO:ended request! Time taken : 1.9641132354736328
+2021-07-13 16:07:32:root:INFO:started request
+2021-07-13 16:07:34:root:INFO:ended request! Time taken : 2.0899081230163574
+2021-07-13 16:07:38:root:INFO:started request
+2021-07-13 16:07:40:root:INFO:ended request! Time taken : 1.986116647720337
+2021-07-13 16:07:42:root:INFO:started request
+2021-07-13 16:07:48:root:INFO:ended request! Time taken : 5.374792098999023
+2021-07-13 16:07:51:root:INFO:started request
+2021-07-13 16:07:54:root:INFO:ended request! Time taken : 2.425333261489868
+2021-07-13 16:07:58:root:INFO:started request
+2021-07-13 16:08:00:root:INFO:ended request! Time taken : 2.406541109085083
+2021-07-13 16:08:04:root:INFO:started request
+2021-07-13 16:08:06:root:INFO:ended request! Time taken : 2.0192086696624756
+2021-07-13 16:08:11:root:INFO:started request
+2021-07-13 16:08:13:root:INFO:ended request! Time taken : 2.337273597717285
+2021-07-13 16:08:16:root:INFO:started request
+2021-07-13 16:08:20:root:INFO:ended request! Time taken : 3.8875818252563477
+2021-07-13 16:08:23:root:INFO:started request
+2021-07-13 16:08:25:root:INFO:ended request! Time taken : 1.8898169994354248
+2021-07-13 16:08:28:root:INFO:started request
+2021-07-13 16:08:30:root:INFO:ended request! Time taken : 2.2099037170410156
+2021-07-13 16:08:33:root:INFO:started request
+2021-07-13 16:08:35:root:INFO:ended request! Time taken : 2.350389242172241
+2021-07-13 16:08:38:root:INFO:started request
+2021-07-13 16:08:40:root:INFO:ended request! Time taken : 2.0562546253204346
+2021-07-13 16:08:42:root:INFO:started request
+2021-07-13 16:08:45:root:INFO:ended request! Time taken : 2.8314456939697266
+2021-07-13 16:08:49:root:INFO:started request
+2021-07-13 16:08:52:root:INFO:ended request! Time taken : 2.863179922103882
+2021-07-13 16:08:56:root:INFO:started request
+2021-07-13 16:08:58:root:INFO:ended request! Time taken : 2.3225841522216797
+2021-07-13 16:09:02:root:INFO:started request
+2021-07-13 16:09:05:root:INFO:ended request! Time taken : 2.709916830062866
+2021-07-13 16:09:09:root:INFO:started request
+2021-07-13 16:09:11:root:INFO:ended request! Time taken : 2.3215129375457764
+2021-07-13 16:09:14:root:INFO:started request
+2021-07-13 16:09:18:root:INFO:ended request! Time taken : 3.942521095275879
+2021-07-13 16:09:21:root:INFO:started request
+2021-07-13 16:09:23:root:INFO:ended request! Time taken : 1.8175909519195557
+2021-07-13 16:09:26:root:INFO:started request
+2021-07-13 16:09:27:root:INFO:ended request! Time taken : 1.755478858947754
+2021-07-13 16:09:30:root:INFO:started request
+2021-07-13 16:09:33:root:INFO:ended request! Time taken : 2.692901372909546
+2021-07-13 16:09:36:root:INFO:started request
+2021-07-13 16:09:38:root:INFO:ended request! Time taken : 2.034047842025757
+2021-07-13 16:09:41:root:INFO:started request
+2021-07-13 16:09:43:root:INFO:ended request! Time taken : 2.1715164184570312
+2021-07-13 16:09:46:root:INFO:started request
+2021-07-13 16:09:49:root:INFO:ended request! Time taken : 2.2516708374023438
+2021-07-13 16:09:52:root:INFO:started request
+2021-07-13 16:09:53:root:INFO:ended request! Time taken : 1.9106488227844238
+2021-07-13 16:09:57:root:INFO:started request
+2021-07-13 16:09:59:root:INFO:ended request! Time taken : 1.454740047454834
+2021-07-13 16:10:03:root:INFO:started request
+2021-07-13 16:10:05:root:INFO:ended request! Time taken : 1.8478028774261475
+2021-07-13 16:10:08:root:INFO:started request
+2021-07-13 16:10:11:root:INFO:ended request! Time taken : 2.945464611053467
+2021-07-13 16:10:15:root:INFO:started request
+2021-07-13 16:10:18:root:INFO:ended request! Time taken : 2.882915735244751
+2021-07-13 16:10:20:root:INFO:started request
+2021-07-13 16:10:22:root:INFO:ended request! Time taken : 1.9286484718322754
+2021-07-13 16:10:25:root:INFO:started request
+2021-07-13 16:10:27:root:INFO:ended request! Time taken : 1.8343546390533447
+2021-07-13 16:10:30:root:INFO:started request
+2021-07-13 16:10:32:root:INFO:ended request! Time taken : 1.6190690994262695
+2021-07-13 16:10:36:root:INFO:started request
+2021-07-13 16:10:44:root:INFO:ended request! Time taken : 7.47770094871521
+2021-07-13 16:10:48:root:INFO:started request
+2021-07-13 16:10:51:root:INFO:ended request! Time taken : 2.5960583686828613
+2021-07-13 16:10:55:root:INFO:started request
+2021-07-13 16:10:57:root:INFO:ended request! Time taken : 2.050157070159912
+2021-07-13 16:11:01:root:INFO:started request
+2021-07-13 16:11:03:root:INFO:ended request! Time taken : 2.896949052810669
+2021-07-13 16:11:07:root:INFO:started request
+2021-07-13 16:11:09:root:INFO:ended request! Time taken : 1.8957676887512207
+2021-07-13 16:11:12:root:INFO:started request
+2021-07-13 16:11:14:root:INFO:ended request! Time taken : 2.3463478088378906
+2021-07-13 16:11:18:root:INFO:started request
+2021-07-13 16:11:20:root:INFO:ended request! Time taken : 1.9326186180114746
+2021-07-13 16:11:23:root:INFO:started request
+2021-07-13 16:11:25:root:INFO:ended request! Time taken : 2.54080867767334
+2021-07-13 16:11:29:root:INFO:started request
+2021-07-13 16:11:30:root:INFO:ended request! Time taken : 1.8241024017333984
+2021-07-13 16:11:33:root:INFO:started request
+2021-07-13 16:11:36:root:INFO:ended request! Time taken : 2.193204164505005
+2021-07-13 16:11:38:root:INFO:started request
+2021-07-13 16:11:41:root:INFO:ended request! Time taken : 2.3170688152313232
+2021-07-13 16:11:45:root:INFO:started request
+2021-07-13 16:11:47:root:INFO:ended request! Time taken : 2.4545538425445557
+2021-07-13 16:11:55:root:INFO:started request
+2021-07-13 16:11:57:root:INFO:ended request! Time taken : 2.352135419845581
+2021-07-13 16:12:01:root:INFO:started request
+2021-07-13 16:12:03:root:INFO:ended request! Time taken : 1.9751691818237305
+2021-07-13 16:12:06:root:INFO:started request
+2021-07-13 16:12:09:root:INFO:ended request! Time taken : 2.600025177001953
+2021-07-13 16:12:12:root:INFO:started request
+2021-07-13 16:12:13:root:INFO:ended request! Time taken : 1.8080742359161377
+2021-07-13 16:12:16:root:INFO:started request
+2021-07-13 16:12:18:root:INFO:ended request! Time taken : 1.8330659866333008
+2021-07-13 16:12:21:root:INFO:started request
+2021-07-13 16:12:23:root:INFO:ended request! Time taken : 1.8156781196594238
+2021-07-13 16:12:27:root:INFO:started request
+2021-07-13 16:12:29:root:INFO:ended request! Time taken : 1.953878402709961
+2021-07-13 16:12:32:root:INFO:started request
+2021-07-13 16:12:36:root:INFO:ended request! Time taken : 3.8196911811828613
+2021-07-13 16:12:39:root:INFO:started request
+2021-07-13 16:12:41:root:INFO:ended request! Time taken : 1.9958610534667969
+2021-07-13 16:12:44:root:INFO:started request
+2021-07-13 16:12:46:root:INFO:ended request! Time taken : 2.1901988983154297
+2021-07-13 16:12:50:root:INFO:started request
+2021-07-13 16:12:54:root:INFO:ended request! Time taken : 3.783787727355957
+2021-07-13 16:12:58:root:INFO:started request
+2021-07-13 16:12:59:root:INFO:ended request! Time taken : 1.8005385398864746
+2021-07-13 16:13:04:root:INFO:started request
+2021-07-13 16:13:06:root:INFO:ended request! Time taken : 1.949831485748291
+2021-07-13 16:54:45:root:INFO:started request
+2021-07-13 16:54:47:root:INFO:ended request! Time taken : 1.7501990795135498
+2021-07-13 16:54:50:root:INFO:started request
+2021-07-13 16:54:52:root:INFO:ended request! Time taken : 2.0699126720428467
+2021-07-13 16:54:56:root:INFO:started request
+2021-07-13 16:54:58:root:INFO:ended request! Time taken : 2.096173048019409
+2021-07-13 16:55:02:root:INFO:started request
+2021-07-13 16:55:05:root:INFO:ended request! Time taken : 2.744126319885254
+2021-07-13 16:55:08:root:INFO:started request
+2021-07-13 16:55:10:root:INFO:ended request! Time taken : 2.315734386444092
+2021-07-13 16:55:14:root:INFO:started request
+2021-07-13 16:55:17:root:INFO:ended request! Time taken : 2.519219160079956
+2021-07-13 16:55:20:root:INFO:started request
+2021-07-13 16:55:23:root:INFO:ended request! Time taken : 2.613208055496216
+2021-07-13 16:55:26:root:INFO:started request
+2021-07-13 16:55:29:root:INFO:ended request! Time taken : 2.7214040756225586
+2021-07-13 16:55:33:root:INFO:started request
+2021-07-13 16:55:36:root:INFO:ended request! Time taken : 2.9911208152770996
+2021-07-13 16:55:39:root:INFO:started request
+2021-07-13 16:55:41:root:INFO:ended request! Time taken : 2.7164053916931152
+2021-07-13 16:55:46:root:INFO:started request
+2021-07-13 16:55:48:root:INFO:ended request! Time taken : 1.9908332824707031
+2021-07-13 16:55:51:root:INFO:started request
+2021-07-13 16:55:54:root:INFO:ended request! Time taken : 2.1154985427856445
+2021-07-13 16:55:57:root:INFO:started request
+2021-07-13 16:55:59:root:INFO:ended request! Time taken : 2.046520471572876
+2021-07-13 16:56:02:root:INFO:started request
+2021-07-13 16:56:05:root:INFO:ended request! Time taken : 2.410545825958252
+2021-07-13 16:56:08:root:INFO:started request
+2021-07-13 16:56:10:root:INFO:ended request! Time taken : 2.118295192718506
+2021-07-13 16:56:13:root:INFO:started request
+2021-07-13 16:56:15:root:INFO:ended request! Time taken : 2.0334227085113525
+2021-07-13 16:56:20:root:INFO:started request
+2021-07-13 16:56:22:root:INFO:ended request! Time taken : 2.1063461303710938
+2021-07-13 16:56:26:root:INFO:started request
+2021-07-13 16:56:28:root:INFO:ended request! Time taken : 2.4044840335845947
+2021-07-13 16:56:34:root:INFO:started request
+2021-07-13 16:56:36:root:INFO:ended request! Time taken : 2.2825493812561035
+2021-07-13 16:56:42:root:INFO:started request
+2021-07-13 16:56:44:root:INFO:ended request! Time taken : 1.9159057140350342
+2021-07-13 16:56:47:root:INFO:started request
+2021-07-13 16:56:49:root:INFO:ended request! Time taken : 1.9398891925811768
+2021-07-13 16:56:51:root:INFO:started request
+2021-07-13 16:56:53:root:INFO:ended request! Time taken : 2.101801633834839
+2021-07-13 16:56:59:root:INFO:started request
+2021-07-13 16:57:12:root:INFO:ended request! Time taken : 13.557958126068115
+2021-07-13 16:57:19:root:INFO:started request
+2021-07-13 16:57:21:root:INFO:ended request! Time taken : 2.384596347808838
+2021-07-13 16:57:26:root:INFO:started request
+2021-07-13 16:57:28:root:INFO:ended request! Time taken : 2.565898895263672
+2021-07-13 16:57:33:root:INFO:started request
+2021-07-13 16:57:35:root:INFO:ended request! Time taken : 2.2712621688842773
+2021-07-13 16:57:39:root:INFO:started request
+2021-07-13 16:57:41:root:INFO:ended request! Time taken : 1.692009687423706
+2021-07-13 16:57:44:root:INFO:started request
+2021-07-13 16:57:48:root:INFO:ended request! Time taken : 3.2365939617156982
+2021-07-13 16:57:53:root:INFO:started request
+2021-07-13 16:57:55:root:INFO:ended request! Time taken : 1.9866156578063965
+2021-07-13 16:57:59:root:INFO:started request
+2021-07-13 16:58:01:root:INFO:ended request! Time taken : 1.8176701068878174
+2021-07-13 16:58:05:root:INFO:started request
+2021-07-13 16:58:07:root:INFO:ended request! Time taken : 2.0844054222106934
+2021-07-13 16:58:11:root:INFO:started request
+2021-07-13 16:58:13:root:INFO:ended request! Time taken : 1.6880390644073486
+2021-07-13 16:58:16:root:INFO:started request
+2021-07-13 16:58:19:root:INFO:ended request! Time taken : 2.6201884746551514
+2021-07-13 16:58:22:root:INFO:started request
+2021-07-13 16:58:25:root:INFO:ended request! Time taken : 2.940596342086792
+2021-07-13 16:58:29:root:INFO:started request
+2021-07-13 16:58:32:root:INFO:ended request! Time taken : 2.64353084564209
+2021-07-13 16:58:35:root:INFO:started request
+2021-07-13 16:58:38:root:INFO:ended request! Time taken : 2.899470329284668
+2021-07-13 16:58:43:root:INFO:started request
+2021-07-13 16:58:48:root:INFO:ended request! Time taken : 4.951659440994263
+2021-07-13 16:58:52:root:INFO:started request
+2021-07-13 16:58:58:root:INFO:ended request! Time taken : 6.044865608215332
+2021-07-13 16:59:02:root:INFO:started request
+2021-07-13 16:59:04:root:INFO:ended request! Time taken : 2.106987237930298
+2021-07-13 16:59:08:root:INFO:started request
+2021-07-13 16:59:09:root:INFO:ended request! Time taken : 1.7227516174316406
+2021-07-13 16:59:13:root:INFO:started request
+2021-07-13 16:59:15:root:INFO:ended request! Time taken : 2.6604082584381104
+2021-07-13 16:59:19:root:INFO:started request
+2021-07-13 16:59:21:root:INFO:ended request! Time taken : 2.0964701175689697
+2021-07-13 16:59:26:root:INFO:started request
+2021-07-13 16:59:28:root:INFO:ended request! Time taken : 2.0270626544952393
+2021-07-13 16:59:32:root:INFO:started request
+2021-07-13 16:59:35:root:INFO:ended request! Time taken : 2.68826961517334
+2021-07-13 16:59:39:root:INFO:started request
+2021-07-13 16:59:41:root:INFO:ended request! Time taken : 2.188955783843994
+2021-07-13 16:59:44:root:INFO:started request
+2021-07-13 16:59:46:root:INFO:ended request! Time taken : 1.9167261123657227
+2021-07-13 16:59:50:root:INFO:started request
+2021-07-13 16:59:51:root:INFO:ended request! Time taken : 1.8988037109375
+2021-07-13 16:59:57:root:INFO:started request
+2021-07-13 17:00:00:root:INFO:ended request! Time taken : 2.784909963607788
+2021-07-13 17:00:12:root:INFO:started request
+2021-07-13 17:00:16:root:INFO:ended request! Time taken : 3.492781162261963
+2021-07-13 17:00:20:root:INFO:started request
+2021-07-13 17:00:22:root:INFO:ended request! Time taken : 2.163045644760132
+2021-07-13 17:00:27:root:INFO:started request
+2021-07-13 17:00:29:root:INFO:ended request! Time taken : 1.9392287731170654
+2021-07-13 17:00:33:root:INFO:started request
+2021-07-13 17:00:36:root:INFO:ended request! Time taken : 2.394554853439331
+2021-07-13 17:00:41:root:INFO:started request
+2021-07-13 17:00:44:root:INFO:ended request! Time taken : 3.1083006858825684
+2021-07-13 17:00:47:root:INFO:started request
+2021-07-13 17:00:50:root:INFO:ended request! Time taken : 2.451172351837158
+2021-07-13 17:00:54:root:INFO:started request
+2021-07-13 17:00:56:root:INFO:ended request! Time taken : 1.8743526935577393
+2021-07-13 17:00:59:root:INFO:started request
+2021-07-13 17:01:02:root:INFO:ended request! Time taken : 2.6678316593170166
+2021-07-13 17:01:06:root:INFO:started request
+2021-07-13 17:01:08:root:INFO:ended request! Time taken : 2.090902090072632
+2021-07-13 17:01:12:root:INFO:started request
+2021-07-13 17:01:14:root:INFO:ended request! Time taken : 2.5431101322174072
+2021-07-13 17:01:18:root:INFO:started request
+2021-07-13 17:01:20:root:INFO:ended request! Time taken : 1.9811651706695557
+2021-07-13 17:01:25:root:INFO:started request
+2021-07-13 17:01:27:root:INFO:ended request! Time taken : 2.5486931800842285
+2021-07-13 17:01:32:root:INFO:started request
+2021-07-13 17:01:34:root:INFO:ended request! Time taken : 2.149623155593872
+2021-07-13 17:01:38:root:INFO:started request
+2021-07-13 17:01:40:root:INFO:ended request! Time taken : 2.1818900108337402
+2021-07-13 17:01:44:root:INFO:started request
+2021-07-13 17:01:46:root:INFO:ended request! Time taken : 2.405862808227539
+2021-07-13 17:01:50:root:INFO:started request
+2021-07-13 17:01:52:root:INFO:ended request! Time taken : 1.993262767791748
+2021-07-13 17:01:57:root:INFO:started request
+2021-07-13 17:01:59:root:INFO:ended request! Time taken : 2.050825357437134
+2021-07-13 17:02:02:root:INFO:started request
+2021-07-13 17:02:04:root:INFO:ended request! Time taken : 2.027590274810791
+2021-07-13 17:02:07:root:INFO:started request
+2021-07-13 17:02:10:root:INFO:ended request! Time taken : 2.6189587116241455
+2021-07-13 17:02:13:root:INFO:started request
+2021-07-13 17:02:15:root:INFO:ended request! Time taken : 2.0654385089874268
+2021-07-13 17:02:18:root:INFO:started request
+2021-07-13 17:02:21:root:INFO:ended request! Time taken : 2.116478443145752
+2021-07-13 17:02:24:root:INFO:started request
+2021-07-13 17:02:26:root:INFO:ended request! Time taken : 1.9735047817230225
+2021-07-13 17:02:29:root:INFO:started request
+2021-07-13 17:02:31:root:INFO:ended request! Time taken : 1.8456847667694092
+2021-07-13 17:02:35:root:INFO:started request
+2021-07-13 17:02:40:root:INFO:ended request! Time taken : 5.627451419830322
+2021-07-13 17:02:45:root:INFO:started request
+2021-07-13 17:02:47:root:INFO:ended request! Time taken : 2.1256425380706787
+2021-07-13 17:02:50:root:INFO:started request
+2021-07-13 17:02:52:root:INFO:ended request! Time taken : 1.7809712886810303
+2021-07-13 17:02:56:root:INFO:started request
+2021-07-13 17:03:01:root:INFO:ended request! Time taken : 4.825399160385132
+2021-07-13 17:03:04:root:INFO:started request
+2021-07-13 17:03:06:root:INFO:ended request! Time taken : 1.9781372547149658
+2021-07-13 17:03:10:root:INFO:started request
+2021-07-13 17:03:12:root:INFO:ended request! Time taken : 2.0358028411865234
+2021-07-13 17:03:15:root:INFO:started request
+2021-07-13 17:03:17:root:INFO:ended request! Time taken : 2.165557384490967
+2021-07-13 17:03:21:root:INFO:started request
+2021-07-13 17:03:22:root:INFO:ended request! Time taken : 1.7882261276245117
+2021-07-13 17:03:26:root:INFO:started request
+2021-07-13 17:03:29:root:INFO:ended request! Time taken : 3.735921621322632
+2021-07-13 17:03:33:root:INFO:started request
+2021-07-13 17:03:35:root:INFO:ended request! Time taken : 2.277574062347412
+2021-07-13 17:03:39:root:INFO:started request
+2021-07-13 17:03:41:root:INFO:ended request! Time taken : 1.9860789775848389
+2021-07-13 17:03:45:root:INFO:started request
+2021-07-13 17:03:46:root:INFO:ended request! Time taken : 1.8870131969451904
+2021-07-13 17:03:50:root:INFO:started request
+2021-07-13 17:03:52:root:INFO:ended request! Time taken : 2.1410410404205322
+2021-07-13 17:03:56:root:INFO:started request
+2021-07-13 17:03:58:root:INFO:ended request! Time taken : 2.0188705921173096
+2021-07-13 17:04:01:root:INFO:started request
+2021-07-13 17:04:03:root:INFO:ended request! Time taken : 2.1230480670928955
+2021-07-13 17:04:07:root:INFO:started request
+2021-07-13 17:04:09:root:INFO:ended request! Time taken : 1.931684970855713
+2021-07-13 17:04:12:root:INFO:started request
+2021-07-13 17:04:14:root:INFO:ended request! Time taken : 2.0727593898773193
+2021-07-13 17:04:17:root:INFO:started request
+2021-07-13 17:04:19:root:INFO:ended request! Time taken : 2.0420260429382324
+2021-07-13 17:04:23:root:INFO:started request
+2021-07-13 17:04:25:root:INFO:ended request! Time taken : 1.940483808517456
+2021-07-13 17:04:29:root:INFO:started request
+2021-07-13 17:04:31:root:INFO:ended request! Time taken : 1.8436946868896484
+2021-07-13 17:04:34:root:INFO:started request
+2021-07-13 17:04:36:root:INFO:ended request! Time taken : 2.0216500759124756
+2021-07-13 17:04:40:root:INFO:started request
+2021-07-13 17:04:42:root:INFO:ended request! Time taken : 1.920809268951416
+2021-07-13 17:04:46:root:INFO:started request
+2021-07-13 17:04:49:root:INFO:ended request! Time taken : 3.47542667388916
+2021-07-13 17:04:53:root:INFO:started request
+2021-07-13 17:04:55:root:INFO:ended request! Time taken : 2.6178905963897705
+2021-07-13 17:04:58:root:INFO:started request
+2021-07-13 17:05:01:root:INFO:ended request! Time taken : 2.4450502395629883
+2021-07-13 17:05:04:root:INFO:started request
+2021-07-13 17:05:06:root:INFO:ended request! Time taken : 2.459630012512207
+2021-07-13 17:05:10:root:INFO:started request
+2021-07-13 17:05:13:root:INFO:ended request! Time taken : 2.408660888671875
+2021-07-13 17:05:17:root:INFO:started request
+2021-07-13 17:05:19:root:INFO:ended request! Time taken : 1.98040771484375
+2021-07-13 17:05:22:root:INFO:started request
+2021-07-13 17:05:24:root:INFO:ended request! Time taken : 1.871344804763794
+2021-07-13 17:05:27:root:INFO:started request
+2021-07-13 17:05:29:root:INFO:ended request! Time taken : 2.2946112155914307
+2021-07-13 17:05:33:root:INFO:started request
+2021-07-13 17:05:35:root:INFO:ended request! Time taken : 1.8172492980957031
+2021-07-13 17:05:38:root:INFO:started request
+2021-07-13 17:05:40:root:INFO:ended request! Time taken : 2.091691255569458
+2021-07-13 17:05:43:root:INFO:started request
+2021-07-13 17:05:45:root:INFO:ended request! Time taken : 2.028202533721924
+2021-07-13 17:05:50:root:INFO:started request
+2021-07-13 17:05:53:root:INFO:ended request! Time taken : 2.979496955871582
+2021-07-13 17:05:56:root:INFO:started request
+2021-07-13 17:05:58:root:INFO:ended request! Time taken : 2.4511682987213135
+2021-07-13 17:06:02:root:INFO:started request
+2021-07-13 17:06:04:root:INFO:ended request! Time taken : 2.348104476928711
+2021-07-13 17:06:08:root:INFO:started request
+2021-07-13 17:06:10:root:INFO:ended request! Time taken : 2.541663646697998
+2021-07-13 17:06:13:root:INFO:started request
+2021-07-13 17:06:16:root:INFO:ended request! Time taken : 2.9961283206939697
+2021-07-13 17:06:20:root:INFO:started request
+2021-07-13 17:06:23:root:INFO:ended request! Time taken : 2.9657509326934814
+2021-07-13 17:06:27:root:INFO:started request
+2021-07-13 17:06:30:root:INFO:ended request! Time taken : 2.793297290802002
+2021-07-13 17:06:34:root:INFO:started request
+2021-07-13 17:06:36:root:INFO:ended request! Time taken : 2.022275686264038
+2021-07-13 17:06:40:root:INFO:started request
+2021-07-13 17:06:42:root:INFO:ended request! Time taken : 2.3019535541534424
+2021-07-13 17:06:45:root:INFO:started request
+2021-07-13 17:06:47:root:INFO:ended request! Time taken : 1.8594303131103516
+2021-07-13 17:06:50:root:INFO:started request
+2021-07-14 10:49:23:root:INFO:started request
+2021-07-14 10:49:25:root:INFO:ended request! Time taken : 1.9096453189849854
+2021-07-14 13:30:55:root:INFO:started request
+2021-07-14 13:30:57:root:INFO:ended request! Time taken : 2.044405698776245
+2021-07-14 13:32:23:root:INFO:started request
+2021-07-14 13:32:25:root:INFO:ended request! Time taken : 1.8033170700073242
+2021-07-14 13:38:36:root:INFO:started request
+2021-07-14 13:38:38:root:INFO:ended request! Time taken : 1.755434513092041
+2021-07-14 13:38:42:root:INFO:started request
+2021-07-14 13:38:44:root:INFO:ended request! Time taken : 2.074553966522217
+2021-07-14 13:38:49:root:INFO:started request
+2021-07-14 13:38:51:root:INFO:ended request! Time taken : 2.0784530639648438
+2021-07-14 13:38:56:root:INFO:started request
+2021-07-14 13:38:58:root:INFO:ended request! Time taken : 2.775411605834961
+2021-07-14 13:39:04:root:INFO:started request
+2021-07-14 13:39:07:root:INFO:ended request! Time taken : 2.4680631160736084
+2021-07-14 13:39:11:root:INFO:started request
+2021-07-14 13:39:14:root:INFO:ended request! Time taken : 2.3333048820495605
+2021-07-14 13:39:19:root:INFO:started request
+2021-07-14 13:39:22:root:INFO:ended request! Time taken : 2.359071731567383
+2021-07-14 13:39:26:root:INFO:started request
+2021-07-14 13:39:29:root:INFO:ended request! Time taken : 3.073308229446411
+2021-07-14 13:39:33:root:INFO:started request
+2021-07-14 13:39:36:root:INFO:ended request! Time taken : 2.9269614219665527
+2021-07-14 13:39:40:root:INFO:started request
+2021-07-14 13:39:43:root:INFO:ended request! Time taken : 2.9425597190856934
+2021-07-14 13:39:50:root:INFO:started request
+2021-07-14 13:39:52:root:INFO:ended request! Time taken : 2.0781102180480957
+2021-07-14 13:39:56:root:INFO:started request
+2021-07-14 13:39:59:root:INFO:ended request! Time taken : 2.611429452896118
+2021-07-14 13:40:03:root:INFO:started request
+2021-07-14 13:40:06:root:INFO:ended request! Time taken : 3.1630921363830566
+2021-07-14 13:40:11:root:INFO:started request
+2021-07-14 13:40:14:root:INFO:ended request! Time taken : 2.3519954681396484
+2021-07-14 13:40:19:root:INFO:started request
+2021-07-14 13:40:21:root:INFO:ended request! Time taken : 1.6927285194396973
+2021-07-14 13:40:25:root:INFO:started request
+2021-07-14 13:40:27:root:INFO:ended request! Time taken : 1.9972233772277832
+2021-07-14 13:40:32:root:INFO:started request
+2021-07-14 13:40:34:root:INFO:ended request! Time taken : 2.1283648014068604
+2021-07-14 13:40:39:root:INFO:started request
+2021-07-14 13:40:41:root:INFO:ended request! Time taken : 2.4758405685424805
+2021-07-14 13:40:47:root:INFO:started request
+2021-07-14 13:40:49:root:INFO:ended request! Time taken : 1.8070945739746094
+2021-07-14 13:40:53:root:INFO:started request
+2021-07-14 13:40:55:root:INFO:ended request! Time taken : 1.93641996383667
+2021-07-14 13:41:00:root:INFO:started request
+2021-07-14 13:41:02:root:INFO:ended request! Time taken : 2.1332857608795166
+2021-07-14 13:41:07:root:INFO:started request
+2021-07-14 13:41:09:root:INFO:ended request! Time taken : 1.8687498569488525
+2021-07-14 13:41:13:root:INFO:started request
+2021-07-14 13:41:16:root:INFO:ended request! Time taken : 2.663898468017578
+2021-07-14 13:41:21:root:INFO:started request
+2021-07-14 13:41:23:root:INFO:ended request! Time taken : 2.551595449447632
+2021-07-14 13:41:28:root:INFO:started request
+2021-07-14 13:41:30:root:INFO:ended request! Time taken : 2.259822368621826
+2021-07-14 13:41:35:root:INFO:started request
+2021-07-14 13:41:37:root:INFO:ended request! Time taken : 2.087696075439453
+2021-07-14 13:41:41:root:INFO:started request
+2021-07-14 13:41:43:root:INFO:ended request! Time taken : 2.142721652984619
+2021-07-14 13:41:48:root:INFO:started request
+2021-07-14 13:41:50:root:INFO:ended request! Time taken : 2.624382734298706
+2021-07-14 13:41:55:root:INFO:started request
+2021-07-14 13:41:56:root:INFO:ended request! Time taken : 1.7255539894104004
+2021-07-14 13:42:01:root:INFO:started request
+2021-07-14 13:42:02:root:INFO:ended request! Time taken : 1.4490296840667725
+2021-07-14 13:42:07:root:INFO:started request
+2021-07-14 13:42:09:root:INFO:ended request! Time taken : 2.175678253173828
+2021-07-14 13:42:14:root:INFO:started request
+2021-07-14 13:42:16:root:INFO:ended request! Time taken : 2.282428503036499
+2021-07-14 13:42:22:root:INFO:started request
+2021-07-14 13:42:25:root:INFO:ended request! Time taken : 2.831775426864624
+2021-07-14 13:42:30:root:INFO:started request
+2021-07-14 13:42:33:root:INFO:ended request! Time taken : 2.944175958633423
+2021-07-14 13:42:38:root:INFO:started request
+2021-07-14 13:42:41:root:INFO:ended request! Time taken : 2.4160218238830566
+2021-07-14 13:42:46:root:INFO:started request
+2021-07-14 13:42:49:root:INFO:ended request! Time taken : 2.5091147422790527
+2021-07-14 13:42:54:root:INFO:started request
+2021-07-14 13:42:56:root:INFO:ended request! Time taken : 2.5232772827148438
+2021-07-14 13:43:02:root:INFO:started request
+2021-07-14 13:43:04:root:INFO:ended request! Time taken : 2.617246150970459
+2021-07-14 13:43:09:root:INFO:started request
+2021-07-14 13:43:11:root:INFO:ended request! Time taken : 1.8568520545959473
+2021-07-14 13:43:14:root:INFO:started request
+2021-07-14 13:43:17:root:INFO:ended request! Time taken : 2.160334587097168
+2021-07-14 13:43:22:root:INFO:started request
+2021-07-14 13:43:24:root:INFO:ended request! Time taken : 2.4028308391571045
+2021-07-14 13:43:28:root:INFO:started request
+2021-07-14 13:43:30:root:INFO:ended request! Time taken : 2.001671075820923
+2021-07-14 13:43:36:root:INFO:started request
+2021-07-14 13:43:38:root:INFO:ended request! Time taken : 1.911059856414795
+2021-07-14 13:43:42:root:INFO:started request
+2021-07-14 13:43:45:root:INFO:ended request! Time taken : 2.552800416946411
+2021-07-14 13:43:49:root:INFO:started request
+2021-07-14 13:43:51:root:INFO:ended request! Time taken : 2.0267558097839355
+2021-07-14 13:43:56:root:INFO:started request
+2021-07-14 13:43:58:root:INFO:ended request! Time taken : 2.155945062637329
+2021-07-14 13:44:04:root:INFO:started request
+2021-07-14 13:44:06:root:INFO:ended request! Time taken : 2.104881763458252
+2021-07-14 13:44:12:root:INFO:started request
+2021-07-14 13:44:14:root:INFO:ended request! Time taken : 2.6140856742858887
+2021-07-14 13:44:20:root:INFO:started request
+2021-07-14 13:44:23:root:INFO:ended request! Time taken : 2.689960479736328
+2021-07-14 13:44:27:root:INFO:started request
+2021-07-14 13:44:29:root:INFO:ended request! Time taken : 2.0752220153808594
+2021-07-14 13:44:32:root:INFO:started request
+2021-07-14 13:44:34:root:INFO:ended request! Time taken : 1.8587300777435303
+2021-07-14 13:44:38:root:INFO:started request
+2021-07-14 13:44:40:root:INFO:ended request! Time taken : 1.8232061862945557
+2021-07-14 13:44:44:root:INFO:started request
+2021-07-14 13:44:47:root:INFO:ended request! Time taken : 2.8597593307495117
+2021-07-14 13:44:51:root:INFO:started request
+2021-07-14 13:44:53:root:INFO:ended request! Time taken : 2.4754152297973633
+2021-07-14 13:44:57:root:INFO:started request
+2021-07-14 13:44:59:root:INFO:ended request! Time taken : 2.0043797492980957
+2021-07-14 13:45:04:root:INFO:started request
+2021-07-14 13:45:06:root:INFO:ended request! Time taken : 2.5520215034484863
+2021-07-14 13:45:12:root:INFO:started request
+2021-07-14 13:45:14:root:INFO:ended request! Time taken : 2.606279134750366
+2021-07-14 13:45:19:root:INFO:started request
+2021-07-14 13:45:21:root:INFO:ended request! Time taken : 2.647862195968628
+2021-07-14 13:45:26:root:INFO:started request
+2021-07-14 13:45:28:root:INFO:ended request! Time taken : 2.1641061305999756
+2021-07-14 13:45:34:root:INFO:started request
+2021-07-14 13:45:36:root:INFO:ended request! Time taken : 2.4816670417785645
+2021-07-14 13:45:40:root:INFO:started request
+2021-07-14 13:45:42:root:INFO:ended request! Time taken : 1.7573330402374268
+2021-07-14 13:45:47:root:INFO:started request
+2021-07-14 13:45:49:root:INFO:ended request! Time taken : 2.0489537715911865
+2021-07-14 13:45:53:root:INFO:started request
+2021-07-14 13:45:56:root:INFO:ended request! Time taken : 2.4201486110687256
+2021-07-14 13:46:00:root:INFO:started request
+2021-07-14 13:46:02:root:INFO:ended request! Time taken : 2.23936128616333
+2021-07-14 13:46:06:root:INFO:started request
+2021-07-14 13:46:08:root:INFO:ended request! Time taken : 1.9603807926177979
+2021-07-14 13:46:12:root:INFO:started request
+2021-07-14 13:46:14:root:INFO:ended request! Time taken : 1.9595167636871338
+2021-07-14 13:46:18:root:INFO:started request
+2021-07-14 13:46:21:root:INFO:ended request! Time taken : 2.8353755474090576
+2021-07-14 13:46:25:root:INFO:started request
+2021-07-14 13:46:27:root:INFO:ended request! Time taken : 1.9014194011688232
+2021-07-14 13:46:33:root:INFO:started request
+2021-07-14 13:46:35:root:INFO:ended request! Time taken : 2.202735424041748
+2021-07-14 13:46:40:root:INFO:started request
+2021-07-14 13:46:42:root:INFO:ended request! Time taken : 2.1336591243743896
+2021-07-14 13:46:47:root:INFO:started request
+2021-07-14 13:46:50:root:INFO:ended request! Time taken : 2.036968231201172
+2021-07-14 13:46:54:root:INFO:started request
+2021-07-14 13:47:03:root:INFO:ended request! Time taken : 8.95249319076538
+2021-07-14 13:47:07:root:INFO:started request
+2021-07-14 13:47:09:root:INFO:ended request! Time taken : 1.9812846183776855
+2021-07-14 13:47:15:root:INFO:started request
+2021-07-14 13:47:17:root:INFO:ended request! Time taken : 1.5313289165496826
+2021-07-14 13:47:23:root:INFO:started request
+2021-07-14 13:47:26:root:INFO:ended request! Time taken : 3.840122699737549
+2021-07-14 13:47:31:root:INFO:started request
+2021-07-14 13:47:33:root:INFO:ended request! Time taken : 1.8709666728973389
+2021-07-14 13:47:37:root:INFO:started request
+2021-07-14 13:47:39:root:INFO:ended request! Time taken : 1.828963041305542
+2021-07-14 13:47:43:root:INFO:started request
+2021-07-14 13:47:45:root:INFO:ended request! Time taken : 1.9118554592132568
+2021-07-14 13:47:50:root:INFO:started request
+2021-07-14 13:47:52:root:INFO:ended request! Time taken : 1.7839889526367188
+2021-07-14 13:47:58:root:INFO:started request
+2021-07-14 13:48:02:root:INFO:ended request! Time taken : 3.5180420875549316
+2021-07-14 13:48:06:root:INFO:started request
+2021-07-14 13:48:08:root:INFO:ended request! Time taken : 2.0182833671569824
+2021-07-14 13:48:13:root:INFO:started request
+2021-07-14 13:48:15:root:INFO:ended request! Time taken : 1.8435461521148682
+2021-07-14 13:48:18:root:INFO:started request
+2021-07-14 13:48:20:root:INFO:ended request! Time taken : 1.8154816627502441
+2021-07-14 13:48:24:root:INFO:started request
+2021-07-14 13:48:26:root:INFO:ended request! Time taken : 1.9003920555114746
+2021-07-14 13:48:32:root:INFO:started request
+2021-07-14 13:48:34:root:INFO:ended request! Time taken : 1.730513572692871
+2021-07-14 13:48:38:root:INFO:started request
+2021-07-14 13:48:40:root:INFO:ended request! Time taken : 2.015490770339966
+2021-07-14 13:48:43:root:INFO:started request
+2021-07-14 13:48:45:root:INFO:ended request! Time taken : 1.8072869777679443
+2021-07-14 13:48:49:root:INFO:started request
+2021-07-14 13:48:51:root:INFO:ended request! Time taken : 1.98431396484375
+2021-07-14 13:48:58:root:INFO:started request
+2021-07-14 13:49:00:root:INFO:ended request! Time taken : 2.1015424728393555
+2021-07-14 13:49:04:root:INFO:started request
+2021-07-14 13:49:06:root:INFO:ended request! Time taken : 1.9487271308898926
+2021-07-14 13:49:10:root:INFO:started request
+2021-07-14 13:49:12:root:INFO:ended request! Time taken : 1.9322638511657715
+2021-07-14 13:49:16:root:INFO:started request
+2021-07-14 13:49:18:root:INFO:ended request! Time taken : 1.8325138092041016
+2021-07-14 13:49:24:root:INFO:started request
+2021-07-14 13:49:26:root:INFO:ended request! Time taken : 1.9290285110473633
+2021-07-14 13:49:32:root:INFO:started request
+2021-07-14 13:49:34:root:INFO:ended request! Time taken : 2.2701833248138428
+2021-07-14 13:49:38:root:INFO:started request
+2021-07-14 13:49:41:root:INFO:ended request! Time taken : 2.7174715995788574
+2021-07-14 13:49:45:root:INFO:started request
+2021-07-14 13:49:47:root:INFO:ended request! Time taken : 2.709768533706665
+2021-07-14 13:49:51:root:INFO:started request
+2021-07-14 13:49:54:root:INFO:ended request! Time taken : 2.417630672454834
+2021-07-14 13:49:58:root:INFO:started request
+2021-07-14 13:50:01:root:INFO:ended request! Time taken : 2.39756441116333
+2021-07-14 13:50:06:root:INFO:started request
+2021-07-14 13:50:09:root:INFO:ended request! Time taken : 2.4617209434509277
+2021-07-14 13:50:13:root:INFO:started request
+2021-07-14 13:50:15:root:INFO:ended request! Time taken : 2.096544027328491
+2021-07-14 13:50:20:root:INFO:started request
+2021-07-14 13:50:22:root:INFO:ended request! Time taken : 1.9251067638397217
+2021-07-14 13:50:27:root:INFO:started request
+2021-07-14 13:50:28:root:INFO:ended request! Time taken : 1.695361614227295
+2021-07-14 13:50:32:root:INFO:started request
+2021-07-14 13:50:34:root:INFO:ended request! Time taken : 2.0967071056365967
+2021-07-14 13:50:40:root:INFO:started request
+2021-07-14 13:50:42:root:INFO:ended request! Time taken : 1.9806361198425293
+2021-07-14 13:50:46:root:INFO:started request
+2021-07-14 13:50:49:root:INFO:ended request! Time taken : 2.801508903503418
+2021-07-14 13:50:54:root:INFO:started request
+2021-07-14 13:50:57:root:INFO:ended request! Time taken : 2.6899092197418213
+2021-07-14 13:51:03:root:INFO:started request
+2021-07-14 13:51:05:root:INFO:ended request! Time taken : 2.5087523460388184
+2021-07-14 13:51:11:root:INFO:started request
+2021-07-14 13:51:14:root:INFO:ended request! Time taken : 2.553093433380127
+2021-07-14 13:51:18:root:INFO:started request
+2021-07-14 13:51:21:root:INFO:ended request! Time taken : 2.6812734603881836
+2021-07-14 13:51:25:root:INFO:started request
+2021-07-14 13:51:27:root:INFO:ended request! Time taken : 2.833770275115967
+2021-07-14 13:51:32:root:INFO:started request
+2021-07-14 13:51:34:root:INFO:ended request! Time taken : 2.474369764328003
+2021-07-14 13:51:39:root:INFO:started request
+2021-07-14 13:51:41:root:INFO:ended request! Time taken : 2.1571757793426514
+2021-07-14 13:51:47:root:INFO:started request
+2021-07-14 13:51:49:root:INFO:ended request! Time taken : 2.390411376953125
+2021-07-14 13:51:54:root:INFO:started request
+2021-07-14 13:51:56:root:INFO:ended request! Time taken : 1.9764835834503174
+2021-07-14 13:52:01:root:INFO:started request
+2021-07-14 13:52:04:root:INFO:ended request! Time taken : 2.4237842559814453
+2021-07-14 13:52:08:root:INFO:started request
+2021-07-14 13:52:10:root:INFO:ended request! Time taken : 1.9286408424377441
+2021-07-14 13:52:15:root:INFO:started request
+2021-07-14 13:52:17:root:INFO:ended request! Time taken : 1.7803876399993896
+2021-07-14 13:52:21:root:INFO:started request
+2021-07-14 13:52:23:root:INFO:ended request! Time taken : 1.9350676536560059
+2021-07-14 13:52:27:root:INFO:started request
+2021-07-14 13:52:30:root:INFO:ended request! Time taken : 2.5722389221191406
+2021-07-14 13:52:34:root:INFO:started request
+2021-07-14 13:52:36:root:INFO:ended request! Time taken : 2.0958027839660645
+2021-07-14 13:52:42:root:INFO:started request
+2021-07-14 13:52:44:root:INFO:ended request! Time taken : 1.971381664276123
+2021-07-14 13:53:14:root:INFO:started request
+2021-07-14 13:53:15:root:INFO:ended request! Time taken : 1.768256664276123
+2021-07-14 13:53:19:root:INFO:started request
+2021-07-14 13:53:21:root:INFO:ended request! Time taken : 1.6719815731048584
+2021-07-14 13:53:24:root:INFO:started request
+2021-07-14 13:53:26:root:INFO:ended request! Time taken : 1.7238574028015137
+2021-07-14 13:55:16:root:INFO:started request
+2021-07-14 13:55:17:root:INFO:ended request! Time taken : 1.673408031463623
+2021-07-14 13:59:31:root:INFO:started request
+2021-07-14 13:59:33:root:INFO:ended request! Time taken : 1.9359571933746338
+2021-07-14 13:59:37:root:INFO:started request
+2021-07-14 13:59:39:root:INFO:ended request! Time taken : 1.9081144332885742
+2021-07-14 13:59:43:root:INFO:started request
+2021-07-14 13:59:45:root:INFO:ended request! Time taken : 2.069279432296753
+2021-07-14 13:59:48:root:INFO:started request
+2021-07-14 13:59:51:root:INFO:ended request! Time taken : 3.0058839321136475
+2021-07-14 13:59:57:root:INFO:started request
+2021-07-14 13:59:59:root:INFO:ended request! Time taken : 2.0530478954315186
+2021-07-14 14:00:09:root:INFO:started request
+2021-07-14 14:00:12:root:INFO:ended request! Time taken : 2.6505930423736572
+2021-07-14 14:00:17:root:INFO:started request
+2021-07-14 14:00:19:root:INFO:ended request! Time taken : 2.6496005058288574
+2021-07-14 14:00:23:root:INFO:started request
+2021-07-14 14:00:26:root:INFO:ended request! Time taken : 3.034872531890869
+2021-07-14 14:00:31:root:INFO:started request
+2021-07-14 14:00:34:root:INFO:ended request! Time taken : 2.728330373764038
+2021-07-14 14:00:38:root:INFO:started request
+2021-07-14 14:00:40:root:INFO:ended request! Time taken : 2.6122684478759766
+2021-07-14 14:00:47:root:INFO:started request
+2021-07-14 14:00:49:root:INFO:ended request! Time taken : 1.8826572895050049
+2021-07-14 14:00:55:root:INFO:started request
+2021-07-14 14:00:55:root:INFO:started request
+2021-07-14 14:00:56:root:INFO:ended request! Time taken : 1.6776976585388184
+2021-07-14 14:00:57:root:INFO:ended request! Time taken : 2.2703609466552734
+2021-07-14 14:01:01:root:INFO:started request
+2021-07-14 14:01:02:root:INFO:started request
+2021-07-14 14:01:02:root:INFO:ended request! Time taken : 1.7117631435394287
+2021-07-14 14:01:03:root:INFO:ended request! Time taken : 1.894425630569458
+2021-07-14 14:01:07:root:INFO:started request
+2021-07-14 14:01:08:root:INFO:started request
+2021-07-14 14:01:08:root:INFO:ended request! Time taken : 1.361018180847168
+2021-07-14 14:01:11:root:INFO:ended request! Time taken : 2.4072494506835938
+2021-07-14 14:01:13:root:INFO:started request
+2021-07-14 14:01:15:root:INFO:started request
+2021-07-14 14:01:15:root:INFO:ended request! Time taken : 2.46335506439209
+2021-07-14 14:01:17:root:INFO:ended request! Time taken : 1.8038606643676758
+2021-07-14 14:01:20:root:INFO:started request
+2021-07-14 14:01:22:root:INFO:started request
+2021-07-14 14:01:22:root:INFO:ended request! Time taken : 2.0863234996795654
+2021-07-14 14:01:23:root:INFO:ended request! Time taken : 1.6298367977142334
+2021-07-14 14:01:26:root:INFO:started request
+2021-07-14 14:01:28:root:INFO:started request
+2021-07-14 14:01:28:root:INFO:ended request! Time taken : 2.238196849822998
+2021-07-14 14:01:30:root:INFO:ended request! Time taken : 1.8395931720733643
+2021-07-14 14:01:33:root:INFO:started request
+2021-07-14 14:01:35:root:INFO:started request
+2021-07-14 14:01:35:root:INFO:ended request! Time taken : 2.2027926445007324
+2021-07-14 14:01:37:root:INFO:ended request! Time taken : 2.263749599456787
+2021-07-14 14:01:40:root:INFO:started request
+2021-07-14 14:01:41:root:INFO:started request
+2021-07-14 14:01:42:root:INFO:ended request! Time taken : 2.531247138977051
+2021-07-14 14:01:43:root:INFO:ended request! Time taken : 1.7825138568878174
+2021-07-14 14:01:47:root:INFO:started request
+2021-07-14 14:01:48:root:INFO:started request
+2021-07-14 14:01:49:root:INFO:ended request! Time taken : 2.432389259338379
+2021-07-14 14:01:49:root:INFO:ended request! Time taken : 1.6108601093292236
+2021-07-14 14:01:54:root:INFO:started request
+2021-07-14 14:01:54:root:INFO:started request
+2021-07-14 14:01:56:root:INFO:ended request! Time taken : 1.8562071323394775
+2021-07-14 14:01:57:root:INFO:ended request! Time taken : 2.454867124557495
+2021-07-14 14:02:01:root:INFO:started request
+2021-07-14 14:02:02:root:INFO:started request
+2021-07-14 14:02:03:root:INFO:ended request! Time taken : 2.1269686222076416
+2021-07-14 14:02:03:root:INFO:ended request! Time taken : 1.825143814086914
+2021-07-14 14:02:07:root:INFO:started request
+2021-07-14 14:02:08:root:INFO:started request
+2021-07-14 14:02:10:root:INFO:ended request! Time taken : 2.757467031478882
+2021-07-14 14:02:11:root:INFO:ended request! Time taken : 2.1657729148864746
+2021-07-14 14:02:15:root:INFO:started request
+2021-07-14 14:02:16:root:INFO:started request
+2021-07-14 14:02:18:root:INFO:ended request! Time taken : 1.7691688537597656
+2021-07-14 14:02:26:root:INFO:started request
+2021-07-14 14:02:28:root:INFO:ended request! Time taken : 2.3353843688964844
+2021-07-14 14:02:34:root:INFO:started request
+2021-07-14 14:02:35:root:INFO:ended request! Time taken : 1.6454997062683105
+2021-07-14 14:16:47:root:INFO:started request
+2021-07-14 14:16:49:root:INFO:ended request! Time taken : 1.8145983219146729
+2021-07-14 14:16:53:root:INFO:started request
+2021-07-14 14:16:55:root:INFO:ended request! Time taken : 1.9299747943878174
+2021-07-14 14:16:59:root:INFO:started request
+2021-07-14 14:17:01:root:INFO:ended request! Time taken : 1.9971117973327637
+2021-07-14 14:17:05:root:INFO:started request
+2021-07-14 14:17:08:root:INFO:ended request! Time taken : 2.908505916595459
+2021-07-14 14:17:12:root:INFO:started request
+2021-07-14 14:17:15:root:INFO:ended request! Time taken : 2.3574745655059814
+2021-07-14 14:17:20:root:INFO:started request
+2021-07-14 14:17:22:root:INFO:ended request! Time taken : 2.437530755996704
+2021-07-14 14:17:26:root:INFO:started request
+2021-07-14 14:17:28:root:INFO:ended request! Time taken : 2.5524935722351074
+2021-07-14 14:17:32:root:INFO:started request
+2021-07-14 14:17:35:root:INFO:ended request! Time taken : 2.733917713165283
+2021-07-14 14:17:39:root:INFO:started request
+2021-07-14 14:17:42:root:INFO:ended request! Time taken : 2.8675711154937744
+2021-07-14 14:17:45:root:INFO:started request
+2021-07-14 14:17:48:root:INFO:ended request! Time taken : 2.39916729927063
+2021-07-14 14:17:52:root:INFO:started request
+2021-07-14 14:17:53:root:INFO:ended request! Time taken : 1.73118257522583
+2021-07-14 14:17:57:root:INFO:started request
+2021-07-14 14:17:59:root:INFO:ended request! Time taken : 2.290351152420044
+2021-07-14 14:18:03:root:INFO:started request
+2021-07-14 14:18:05:root:INFO:ended request! Time taken : 2.375364303588867
+2021-07-14 14:18:09:root:INFO:started request
+2021-07-14 14:18:11:root:INFO:ended request! Time taken : 2.3091037273406982
+2021-07-14 14:18:15:root:INFO:started request
+2021-07-14 14:18:17:root:INFO:ended request! Time taken : 1.5311925411224365
+2021-07-14 14:18:21:root:INFO:started request
+2021-07-14 14:18:23:root:INFO:ended request! Time taken : 1.924649953842163
+2021-07-14 14:18:27:root:INFO:started request
+2021-07-14 14:18:29:root:INFO:ended request! Time taken : 2.0346832275390625
+2021-07-14 14:18:34:root:INFO:started request
+2021-07-14 14:18:48:root:INFO:started request
+2021-07-14 14:18:49:root:INFO:ended request! Time taken : 1.738480806350708
+2021-07-14 14:18:53:root:INFO:started request
+2021-07-14 14:18:55:root:INFO:ended request! Time taken : 1.834947109222412
+2021-07-14 14:18:59:root:INFO:started request
+2021-07-14 14:19:00:root:INFO:ended request! Time taken : 1.7292866706848145
+2021-07-14 14:19:04:root:INFO:started request
+2021-07-14 14:19:07:root:INFO:ended request! Time taken : 2.604642391204834
+2021-07-14 14:19:11:root:INFO:started request
+2021-07-14 14:19:13:root:INFO:ended request! Time taken : 2.6000397205352783
+2021-07-14 14:19:18:root:INFO:started request
+2021-07-14 14:19:21:root:INFO:ended request! Time taken : 2.3326616287231445
+2021-07-14 14:23:12:root:INFO:started request
+2021-07-14 14:23:14:root:INFO:ended request! Time taken : 1.7161197662353516
+2021-07-14 14:26:29:root:INFO:started request
+2021-07-14 14:26:31:root:INFO:ended request! Time taken : 1.818274736404419
+2021-07-14 14:26:35:root:INFO:started request
+2021-07-14 14:26:37:root:INFO:ended request! Time taken : 1.9896001815795898
+2021-07-14 14:26:41:root:INFO:started request
+2021-07-14 14:26:42:root:INFO:ended request! Time taken : 1.871861457824707
+2021-07-14 14:26:46:root:INFO:started request
+2021-07-14 14:26:49:root:INFO:ended request! Time taken : 2.8807480335235596
+2021-07-14 14:26:54:root:INFO:started request
+2021-07-14 14:26:56:root:INFO:ended request! Time taken : 2.422863006591797
+2021-07-14 14:27:01:root:INFO:started request
+2021-07-14 14:27:04:root:INFO:ended request! Time taken : 2.6014411449432373
+2021-07-14 14:27:10:root:INFO:started request
+2021-07-14 14:27:13:root:INFO:ended request! Time taken : 2.457603693008423
+2021-07-14 14:27:18:root:INFO:started request
+2021-07-14 14:27:21:root:INFO:ended request! Time taken : 2.91188645362854
+2021-07-14 14:27:25:root:INFO:started request
+2021-07-14 14:27:28:root:INFO:ended request! Time taken : 2.9515082836151123
+2021-07-14 14:27:33:root:INFO:started request
+2021-07-14 14:27:35:root:INFO:ended request! Time taken : 2.3721752166748047
+2021-07-14 14:27:41:root:INFO:started request
+2021-07-14 14:27:43:root:INFO:ended request! Time taken : 2.0368247032165527
+2021-07-14 14:27:46:root:INFO:started request
+2021-07-14 14:27:47:root:INFO:started request
+2021-07-14 14:27:48:root:INFO:ended request! Time taken : 1.8273899555206299
+2021-07-14 14:27:50:root:INFO:ended request! Time taken : 2.413745403289795
+2021-07-14 14:27:53:root:INFO:started request
+2021-07-14 14:27:54:root:INFO:started request
+2021-07-14 14:27:54:root:INFO:ended request! Time taken : 1.8578457832336426
+2021-07-14 14:27:56:root:INFO:ended request! Time taken : 2.1382555961608887
+2021-07-14 14:27:59:root:INFO:started request
+2021-07-14 14:28:01:root:INFO:ended request! Time taken : 1.6944098472595215
+2021-07-14 14:28:01:root:INFO:started request
+2021-07-14 14:28:04:root:INFO:ended request! Time taken : 2.6814608573913574
+2021-07-14 14:28:05:root:INFO:started request
+2021-07-14 14:28:08:root:INFO:started request
+2021-07-14 14:28:08:root:INFO:ended request! Time taken : 2.8009397983551025
+2021-07-14 14:28:10:root:INFO:ended request! Time taken : 1.7551286220550537
+2021-07-14 14:28:13:root:INFO:started request
+2021-07-14 14:28:14:root:INFO:started request
+2021-07-14 14:28:15:root:INFO:ended request! Time taken : 1.8078222274780273
+2021-07-14 14:28:16:root:INFO:ended request! Time taken : 1.7174873352050781
+2021-07-14 14:28:20:root:INFO:started request
+2021-07-14 14:28:21:root:INFO:started request
+2021-07-14 14:28:22:root:INFO:ended request! Time taken : 2.1702470779418945
+2021-07-14 14:28:23:root:INFO:ended request! Time taken : 1.830833911895752
+2021-07-14 14:28:27:root:INFO:started request
+2021-07-14 14:28:28:root:INFO:started request
+2021-07-14 14:28:29:root:INFO:ended request! Time taken : 2.106964111328125
+2021-07-14 14:28:30:root:INFO:ended request! Time taken : 2.419407367706299
+2021-07-14 14:28:34:root:INFO:started request
+2021-07-14 14:28:35:root:INFO:started request
+2021-07-14 14:28:37:root:INFO:ended request! Time taken : 2.4987707138061523
+2021-07-14 14:28:37:root:INFO:ended request! Time taken : 1.7693967819213867
+2021-07-14 14:28:42:root:INFO:started request
+2021-07-14 14:28:42:root:INFO:started request
+2021-07-14 14:28:44:root:INFO:ended request! Time taken : 2.541353940963745
+2021-07-14 14:28:49:root:INFO:started request
+2021-07-14 14:28:52:root:INFO:ended request! Time taken : 2.240615129470825
+2021-07-14 14:28:56:root:INFO:started request
+2021-07-14 14:28:57:root:INFO:ended request! Time taken : 1.782447338104248
+2021-07-14 14:29:01:root:INFO:started request
+2021-07-14 14:29:03:root:INFO:ended request! Time taken : 2.012852430343628
+2021-07-14 14:29:07:root:INFO:started request
+2021-07-14 14:29:09:root:INFO:ended request! Time taken : 1.6745736598968506
+2021-07-14 14:29:13:root:INFO:started request
+2021-07-14 14:29:15:root:INFO:ended request! Time taken : 2.230353355407715
+2021-07-14 14:29:20:root:INFO:started request
+2021-07-14 14:29:22:root:INFO:ended request! Time taken : 1.5680956840515137
+2021-07-14 14:29:27:root:INFO:started request
+2021-07-14 14:29:28:root:INFO:ended request! Time taken : 1.4305944442749023
+2021-07-14 14:29:32:root:INFO:started request
+2021-07-14 14:29:34:root:INFO:ended request! Time taken : 1.4469666481018066
+2021-07-14 14:29:37:root:INFO:started request
+2021-07-14 14:29:40:root:INFO:ended request! Time taken : 2.1966629028320312
+2021-07-14 14:29:47:root:INFO:started request
+2021-07-14 14:29:49:root:INFO:ended request! Time taken : 1.9411323070526123
+2021-07-14 14:29:57:root:INFO:started request
+2021-07-14 14:29:58:root:INFO:ended request! Time taken : 1.8507845401763916
+2021-07-14 14:30:07:root:INFO:started request
+2021-07-14 14:30:09:root:INFO:ended request! Time taken : 2.0668609142303467
+2021-07-14 14:30:14:root:INFO:started request
+2021-07-14 14:30:19:root:INFO:ended request! Time taken : 4.904766798019409
+2021-07-14 14:30:25:root:INFO:started request
+2021-07-14 14:30:29:root:INFO:ended request! Time taken : 3.5209662914276123
+2021-07-14 14:30:33:root:INFO:started request
+2021-07-14 14:30:35:root:INFO:ended request! Time taken : 2.4798951148986816
+2021-07-14 14:30:40:root:INFO:started request
+2021-07-14 14:30:43:root:INFO:ended request! Time taken : 2.6500415802001953
+2021-07-14 14:30:49:root:INFO:started request
+2021-07-14 14:30:50:root:INFO:ended request! Time taken : 1.6835241317749023
+2021-07-14 14:30:54:root:INFO:started request
+2021-07-14 14:30:56:root:INFO:ended request! Time taken : 1.880443811416626
+2021-07-14 14:31:00:root:INFO:started request
+2021-07-14 14:31:03:root:INFO:ended request! Time taken : 2.6997156143188477
+2021-07-14 14:31:08:root:INFO:started request
+2021-07-14 14:31:10:root:INFO:ended request! Time taken : 1.7147243022918701
+2021-07-14 14:31:14:root:INFO:started request
+2021-07-14 14:31:16:root:INFO:ended request! Time taken : 2.1328859329223633
+2021-07-14 14:31:21:root:INFO:started request
+2021-07-14 14:31:23:root:INFO:ended request! Time taken : 2.5745010375976562
+2021-07-14 14:31:29:root:INFO:started request
+2021-07-14 14:31:30:root:INFO:ended request! Time taken : 1.8433842658996582
+2021-07-14 14:31:35:root:INFO:started request
+2021-07-14 14:31:38:root:INFO:ended request! Time taken : 2.8535470962524414
+2021-07-14 14:31:42:root:INFO:started request
+2021-07-14 14:31:46:root:INFO:ended request! Time taken : 3.167257070541382
+2021-07-14 14:31:50:root:INFO:started request
+2021-07-14 14:35:23:root:INFO:started request
+2021-07-14 14:35:24:root:INFO:ended request! Time taken : 1.765821933746338
+2021-07-14 14:35:28:root:INFO:started request
+2021-07-14 14:35:30:root:INFO:ended request! Time taken : 1.934952974319458
+2021-07-14 14:35:33:root:INFO:started request
+2021-07-14 14:35:36:root:INFO:ended request! Time taken : 2.145416259765625
+2021-07-14 14:35:41:root:INFO:started request
+2021-07-14 14:35:44:root:INFO:ended request! Time taken : 2.9270870685577393
+2021-07-14 14:35:48:root:INFO:started request
+2021-07-14 14:35:50:root:INFO:ended request! Time taken : 2.4196321964263916
+2021-07-14 14:35:55:root:INFO:started request
+2021-07-14 14:35:57:root:INFO:ended request! Time taken : 2.5217933654785156
+2021-07-14 14:36:02:root:INFO:started request
+2021-07-14 14:36:05:root:INFO:ended request! Time taken : 2.533447504043579
+2021-07-14 14:36:08:root:INFO:started request
+2021-07-14 14:36:11:root:INFO:ended request! Time taken : 2.844306707382202
+2021-07-14 14:36:15:root:INFO:started request
+2021-07-14 14:36:18:root:INFO:ended request! Time taken : 3.077510118484497
+2021-07-14 14:36:22:root:INFO:started request
+2021-07-14 14:36:24:root:INFO:ended request! Time taken : 2.4606990814208984
+2021-07-14 14:36:28:root:INFO:started request
+2021-07-14 14:36:30:root:INFO:ended request! Time taken : 2.0420236587524414
+2021-07-14 14:36:34:root:INFO:started request
+2021-07-14 14:36:36:root:INFO:ended request! Time taken : 2.40326189994812
+2021-07-14 14:36:40:root:INFO:started request
+2021-07-14 14:36:42:root:INFO:ended request! Time taken : 2.0877060890197754
+2021-07-14 14:36:46:root:INFO:started request
+2021-07-14 14:36:48:root:INFO:ended request! Time taken : 2.2655255794525146
+2021-07-14 14:36:52:root:INFO:started request
+2021-07-14 14:36:54:root:INFO:ended request! Time taken : 1.8432073593139648
+2021-07-14 14:36:57:root:INFO:started request
+2021-07-14 14:36:59:root:INFO:ended request! Time taken : 1.8590798377990723
+2021-07-14 14:37:03:root:INFO:started request
+2021-07-14 14:37:04:root:INFO:ended request! Time taken : 1.7110843658447266
+2021-07-14 14:37:08:root:INFO:started request
+2021-07-14 14:37:10:root:INFO:ended request! Time taken : 2.3575305938720703
+2021-07-14 14:37:14:root:INFO:started request
+2021-07-14 14:37:16:root:INFO:ended request! Time taken : 2.0266034603118896
+2021-07-14 14:37:20:root:INFO:started request
+2021-07-14 14:37:22:root:INFO:ended request! Time taken : 1.5835726261138916
+2021-07-14 14:37:26:root:INFO:started request
+2021-07-14 14:37:27:root:INFO:ended request! Time taken : 1.6527864933013916
+2021-07-14 14:37:31:root:INFO:started request
+2021-07-14 14:37:33:root:INFO:ended request! Time taken : 1.8184280395507812
+2021-07-14 14:37:37:root:INFO:started request
+2021-07-14 14:37:39:root:INFO:ended request! Time taken : 2.696039915084839
+2021-07-14 14:37:43:root:INFO:started request
+2021-07-14 14:37:46:root:INFO:ended request! Time taken : 2.258280038833618
+2021-07-14 14:37:49:root:INFO:started request
+2021-07-14 14:37:52:root:INFO:ended request! Time taken : 2.3537020683288574
+2021-07-14 14:37:55:root:INFO:started request
+2021-07-14 14:37:57:root:INFO:ended request! Time taken : 2.0158731937408447
+2021-07-14 14:38:01:root:INFO:started request
+2021-07-14 14:38:03:root:INFO:ended request! Time taken : 1.8734331130981445
+2021-07-14 14:38:06:root:INFO:started request
+2021-07-14 14:38:10:root:INFO:ended request! Time taken : 3.852979898452759
+2021-07-14 14:38:14:root:INFO:started request
+2021-07-14 14:38:16:root:INFO:ended request! Time taken : 1.8322536945343018
+2021-07-14 14:38:20:root:INFO:started request
+2021-07-14 14:38:21:root:INFO:ended request! Time taken : 1.785487413406372
+2021-07-14 14:38:26:root:INFO:started request
+2021-07-14 14:38:28:root:INFO:ended request! Time taken : 2.2679405212402344
+2021-07-14 14:38:32:root:INFO:started request
+2021-07-14 14:38:34:root:INFO:ended request! Time taken : 1.8912222385406494
+2021-07-14 14:38:38:root:INFO:started request
+2021-07-14 14:38:41:root:INFO:ended request! Time taken : 2.803032398223877
+2021-07-14 14:38:45:root:INFO:started request
+2021-07-14 14:38:47:root:INFO:ended request! Time taken : 2.8111064434051514
+2021-07-14 14:38:52:root:INFO:started request
+2021-07-14 14:38:55:root:INFO:ended request! Time taken : 2.4658143520355225
+2021-07-14 14:38:58:root:INFO:started request
+2021-07-14 14:39:01:root:INFO:ended request! Time taken : 2.3160154819488525
+2021-07-14 14:39:04:root:INFO:started request
+2021-07-14 14:39:07:root:INFO:ended request! Time taken : 2.670093536376953
+2021-07-14 14:39:11:root:INFO:started request
+2021-07-14 14:39:13:root:INFO:ended request! Time taken : 2.437699556350708
+2021-07-14 14:39:17:root:INFO:started request
+2021-07-14 14:39:19:root:INFO:ended request! Time taken : 1.7700896263122559
+2021-07-14 14:39:23:root:INFO:started request
+2021-07-14 14:39:25:root:INFO:ended request! Time taken : 1.8975067138671875
+2021-07-14 14:39:30:root:INFO:started request
+2021-07-14 14:39:32:root:INFO:ended request! Time taken : 2.070113182067871
+2021-07-14 14:39:36:root:INFO:started request
+2021-07-14 14:39:38:root:INFO:ended request! Time taken : 2.212630033493042
+2021-07-14 14:39:41:root:INFO:started request
+2021-07-14 14:39:43:root:INFO:ended request! Time taken : 1.9694814682006836
+2021-07-14 14:39:47:root:INFO:started request
+2021-07-14 14:39:50:root:INFO:ended request! Time taken : 2.3736143112182617
+2021-07-14 14:39:53:root:INFO:started request
+2021-07-14 14:39:55:root:INFO:ended request! Time taken : 2.001495599746704
+2021-07-14 14:39:59:root:INFO:started request
+2021-07-14 14:40:01:root:INFO:ended request! Time taken : 1.9377593994140625
+2021-07-14 14:40:05:root:INFO:started request
+2021-07-14 14:40:07:root:INFO:ended request! Time taken : 2.013414144515991
+2021-07-14 14:40:12:root:INFO:started request
+2021-07-14 14:40:15:root:INFO:ended request! Time taken : 2.880465030670166
+2021-07-14 14:40:20:root:INFO:started request
+2021-07-14 14:40:23:root:INFO:ended request! Time taken : 2.8611531257629395
+2021-07-14 14:40:27:root:INFO:started request
+2021-07-14 14:40:28:root:INFO:ended request! Time taken : 1.8758959770202637
+2021-07-14 14:40:32:root:INFO:started request
+2021-07-14 14:40:35:root:INFO:ended request! Time taken : 2.4836225509643555
+2021-07-14 14:40:38:root:INFO:started request
+2021-07-14 14:40:41:root:INFO:ended request! Time taken : 2.0675017833709717
+2021-07-14 14:40:44:root:INFO:started request
+2021-07-14 14:40:47:root:INFO:ended request! Time taken : 2.4254515171051025
+2021-07-14 14:40:51:root:INFO:started request
+2021-07-14 14:40:53:root:INFO:ended request! Time taken : 2.5596368312835693
+2021-07-14 14:40:57:root:INFO:started request
+2021-07-14 14:40:59:root:INFO:ended request! Time taken : 1.9020237922668457
+2021-07-14 14:41:03:root:INFO:started request
+2021-07-14 14:41:05:root:INFO:ended request! Time taken : 2.388617992401123
+2021-07-14 14:41:09:root:INFO:started request
+2021-07-14 14:41:11:root:INFO:ended request! Time taken : 1.8749232292175293
+2021-07-14 14:41:15:root:INFO:started request
+2021-07-14 14:41:17:root:INFO:ended request! Time taken : 2.5240468978881836
+2021-07-14 14:41:21:root:INFO:started request
+2021-07-14 14:41:23:root:INFO:ended request! Time taken : 1.787597894668579
+2021-07-14 14:41:27:root:INFO:started request
+2021-07-14 14:41:29:root:INFO:ended request! Time taken : 2.607495069503784
+2021-07-14 14:41:33:root:INFO:started request
+2021-07-14 14:41:35:root:INFO:ended request! Time taken : 1.8577880859375
+2021-07-14 14:41:39:root:INFO:started request
+2021-07-14 14:41:41:root:INFO:ended request! Time taken : 1.901702642440796
+2021-07-14 14:41:44:root:INFO:started request
+2021-07-14 14:41:47:root:INFO:ended request! Time taken : 2.3252015113830566
+2021-07-14 14:41:50:root:INFO:started request
+2021-07-14 14:41:53:root:INFO:ended request! Time taken : 2.601147413253784
+2021-07-14 14:41:57:root:INFO:started request
+2021-07-14 14:41:59:root:INFO:ended request! Time taken : 1.9779748916625977
+2021-07-14 14:42:02:root:INFO:started request
+2021-07-14 14:42:04:root:INFO:ended request! Time taken : 2.131056070327759
+2021-07-14 14:42:08:root:INFO:started request
+2021-07-14 14:42:11:root:INFO:ended request! Time taken : 2.70159649848938
+2021-07-14 14:42:15:root:INFO:started request
+2021-07-14 14:42:16:root:INFO:ended request! Time taken : 1.3687915802001953
+2021-07-14 14:42:20:root:INFO:started request
+2021-07-14 14:42:22:root:INFO:ended request! Time taken : 1.9449443817138672
+2021-07-14 14:42:27:root:INFO:started request
+2021-07-14 14:42:29:root:INFO:ended request! Time taken : 2.0175371170043945
+2021-07-14 14:42:33:root:INFO:started request
+2021-07-14 14:42:34:root:INFO:ended request! Time taken : 1.64646577835083
+2021-07-14 14:42:38:root:INFO:started request
+2021-07-14 14:42:42:root:INFO:ended request! Time taken : 3.694655656814575
+2021-07-14 14:42:45:root:INFO:started request
+2021-07-14 14:42:47:root:INFO:ended request! Time taken : 1.8843605518341064
+2021-07-14 14:42:51:root:INFO:started request
+2021-07-14 14:42:53:root:INFO:ended request! Time taken : 2.1054089069366455
+2021-07-14 14:42:57:root:INFO:started request
+2021-07-14 14:43:00:root:INFO:ended request! Time taken : 3.5299010276794434
+2021-07-14 14:43:04:root:INFO:started request
+2021-07-14 14:43:06:root:INFO:ended request! Time taken : 1.875441551208496
+2021-07-14 14:43:09:root:INFO:started request
+2021-07-14 14:43:11:root:INFO:ended request! Time taken : 1.865609884262085
+2021-07-14 14:43:15:root:INFO:started request
+2021-07-14 14:43:16:root:INFO:ended request! Time taken : 1.896064281463623
+2021-07-14 14:43:20:root:INFO:started request
+2021-07-14 14:43:22:root:INFO:ended request! Time taken : 1.990725040435791
+2021-07-14 14:43:26:root:INFO:started request
+2021-07-14 14:43:28:root:INFO:ended request! Time taken : 2.457257032394409
+2021-07-14 14:43:32:root:INFO:started request
+2021-07-14 14:43:34:root:INFO:ended request! Time taken : 1.9540855884552002
+2021-07-14 14:43:37:root:INFO:started request
+2021-07-14 14:43:40:root:INFO:ended request! Time taken : 2.1405296325683594
+2021-07-14 14:43:43:root:INFO:started request
+2021-07-14 14:43:45:root:INFO:ended request! Time taken : 1.8976705074310303
+2021-07-14 14:43:49:root:INFO:started request
+2021-07-14 14:43:51:root:INFO:ended request! Time taken : 2.0896706581115723
+2021-07-14 14:43:55:root:INFO:started request
+2021-07-14 14:43:56:root:INFO:ended request! Time taken : 1.7138183116912842
+2021-07-14 14:44:00:root:INFO:started request
+2021-07-14 14:44:03:root:INFO:ended request! Time taken : 2.229276180267334
+2021-07-14 14:44:06:root:INFO:started request
+2021-07-14 14:44:08:root:INFO:ended request! Time taken : 1.8631951808929443
+2021-07-14 14:44:12:root:INFO:started request
+2021-07-14 14:44:14:root:INFO:ended request! Time taken : 2.034715175628662
+2021-07-14 14:44:18:root:INFO:started request
+2021-07-14 14:44:19:root:INFO:ended request! Time taken : 1.9491569995880127
+2021-07-14 14:44:23:root:INFO:started request
+2021-07-14 14:44:25:root:INFO:ended request! Time taken : 1.8057994842529297
+2021-07-14 14:44:29:root:INFO:started request
+2021-07-14 14:44:31:root:INFO:ended request! Time taken : 2.0510706901550293
+2021-07-14 14:44:37:root:INFO:started request
+2021-07-14 14:44:39:root:INFO:ended request! Time taken : 1.9034080505371094
+2021-07-14 14:44:44:root:INFO:started request
+2021-07-14 14:44:46:root:INFO:ended request! Time taken : 1.6273996829986572
+2021-07-14 14:44:51:root:INFO:started request
+2021-07-14 14:44:54:root:INFO:ended request! Time taken : 2.763361692428589
+2021-07-14 14:44:58:root:INFO:started request
+2021-07-14 14:45:00:root:INFO:ended request! Time taken : 2.4715967178344727
+2021-07-14 14:45:04:root:INFO:started request
+2021-07-14 14:45:06:root:INFO:ended request! Time taken : 2.383626699447632
+2021-07-14 14:45:12:root:INFO:started request
+2021-07-14 14:45:14:root:INFO:ended request! Time taken : 2.669761896133423
+2021-07-14 14:45:18:root:INFO:started request
+2021-07-14 14:45:20:root:INFO:ended request! Time taken : 2.403099298477173
+2021-07-14 14:45:24:root:INFO:started request
+2021-07-14 14:45:26:root:INFO:ended request! Time taken : 1.895550012588501
+2021-07-14 14:45:30:root:INFO:started request
+2021-07-14 14:45:32:root:INFO:ended request! Time taken : 1.8731927871704102
+2021-07-14 14:45:35:root:INFO:started request
+2021-07-14 14:45:37:root:INFO:ended request! Time taken : 1.932734489440918
+2021-07-14 14:45:41:root:INFO:started request
+2021-07-14 14:45:43:root:INFO:ended request! Time taken : 1.80257248878479
+2021-07-14 14:45:47:root:INFO:started request
+2021-07-14 14:45:49:root:INFO:ended request! Time taken : 2.0170085430145264
+2021-07-14 14:45:53:root:INFO:started request
+2021-07-14 14:45:55:root:INFO:ended request! Time taken : 1.7918572425842285
+2021-07-14 14:45:58:root:INFO:started request
+2021-07-14 14:46:01:root:INFO:ended request! Time taken : 2.9514412879943848
+2021-07-14 14:46:05:root:INFO:started request
+2021-07-14 14:46:07:root:INFO:ended request! Time taken : 2.322324514389038
+2021-07-14 14:46:11:root:INFO:started request
+2021-07-14 14:46:13:root:INFO:ended request! Time taken : 2.378009557723999
+2021-07-14 14:46:17:root:INFO:started request
+2021-07-14 14:46:20:root:INFO:ended request! Time taken : 2.3945188522338867
+2021-07-14 14:46:24:root:INFO:started request
+2021-07-14 14:46:26:root:INFO:ended request! Time taken : 2.7400574684143066
+2021-07-14 14:46:30:root:INFO:started request
+2021-07-14 14:46:33:root:INFO:ended request! Time taken : 2.7980995178222656
+2021-07-14 14:46:36:root:INFO:started request
+2021-07-14 14:46:39:root:INFO:ended request! Time taken : 2.5923051834106445
+2021-07-14 14:46:43:root:INFO:started request
+2021-07-14 14:46:45:root:INFO:ended request! Time taken : 1.9141426086425781
+2021-07-14 14:46:48:root:INFO:started request
+2021-07-14 14:46:50:root:INFO:ended request! Time taken : 2.2876076698303223
+2021-07-14 14:46:54:root:INFO:started request
+2021-07-14 14:46:57:root:INFO:ended request! Time taken : 2.0438265800476074
+2021-07-14 14:47:02:root:INFO:started request
+2021-07-14 14:47:04:root:INFO:ended request! Time taken : 2.6276485919952393
+2021-07-14 14:47:08:root:INFO:started request
+2021-07-14 14:47:10:root:INFO:ended request! Time taken : 1.901277780532837
+2021-07-14 14:47:14:root:INFO:started request
+2021-07-14 14:47:16:root:INFO:ended request! Time taken : 1.8846065998077393
+2021-07-14 14:47:19:root:INFO:started request
+2021-07-14 14:47:21:root:INFO:ended request! Time taken : 1.9241952896118164
+2021-07-14 14:47:28:root:INFO:started request
+2021-07-14 14:47:30:root:INFO:ended request! Time taken : 2.335810899734497
+2021-07-14 14:47:35:root:INFO:started request
+2021-07-14 14:47:37:root:INFO:ended request! Time taken : 1.9985816478729248
+2021-07-14 14:47:41:root:INFO:started request
+2021-07-14 14:47:43:root:INFO:ended request! Time taken : 1.917924165725708
+2021-07-14 14:47:47:root:INFO:started request
+2021-07-14 14:47:49:root:INFO:ended request! Time taken : 1.9312970638275146
+2021-07-14 14:47:54:root:INFO:started request
+2021-07-14 14:47:56:root:INFO:ended request! Time taken : 2.039325475692749
+2021-07-14 14:48:02:root:INFO:started request
+2021-07-14 14:48:04:root:INFO:ended request! Time taken : 2.337062358856201
+2021-07-14 14:48:08:root:INFO:started request
+2021-07-14 14:48:10:root:INFO:ended request! Time taken : 2.2818045616149902
+2021-07-14 14:48:15:root:INFO:started request
+2021-07-14 14:48:18:root:INFO:ended request! Time taken : 2.2860593795776367
+2021-07-14 14:48:22:root:INFO:started request
+2021-07-14 14:48:24:root:INFO:ended request! Time taken : 1.8928780555725098
+2021-07-14 14:48:28:root:INFO:started request
+2021-07-14 14:48:30:root:INFO:ended request! Time taken : 2.0023396015167236
+2021-07-14 14:48:36:root:INFO:started request
+2021-07-14 14:48:39:root:INFO:ended request! Time taken : 2.9372570514678955
+2021-07-14 14:48:43:root:INFO:started request
+2021-07-14 14:48:45:root:INFO:ended request! Time taken : 2.1040401458740234
+2021-07-14 14:48:51:root:INFO:started request
+2021-07-14 14:48:53:root:INFO:ended request! Time taken : 1.8520572185516357
+2021-07-14 14:48:58:root:INFO:started request
+2021-07-14 14:49:01:root:INFO:ended request! Time taken : 2.3636176586151123
+2021-07-14 14:49:06:root:INFO:started request
+2021-07-14 14:49:08:root:INFO:ended request! Time taken : 1.8546204566955566
+2021-07-14 14:49:13:root:INFO:started request
+2021-07-14 14:49:15:root:INFO:ended request! Time taken : 2.7143197059631348
+2021-07-14 14:49:21:root:INFO:started request
+2021-07-14 14:49:23:root:INFO:ended request! Time taken : 2.777841806411743
+2021-07-14 14:49:34:root:INFO:started request
+2021-07-14 14:49:37:root:INFO:ended request! Time taken : 3.425536632537842
+2021-07-14 14:49:42:root:INFO:started request
+2021-07-14 14:49:44:root:INFO:ended request! Time taken : 2.5314154624938965
+2021-07-14 14:49:49:root:INFO:started request
+2021-07-14 14:49:52:root:INFO:ended request! Time taken : 2.5943050384521484
+2021-07-14 14:49:57:root:INFO:started request
+2021-07-14 14:49:59:root:INFO:ended request! Time taken : 2.604628324508667
+2021-07-14 14:50:04:root:INFO:started request
+2021-07-14 14:50:06:root:INFO:ended request! Time taken : 2.1238057613372803
+2021-07-14 14:50:10:root:INFO:started request
+2021-07-14 14:50:12:root:INFO:ended request! Time taken : 1.9997656345367432
+2021-07-14 14:50:17:root:INFO:started request
+2021-07-14 14:50:20:root:INFO:ended request! Time taken : 2.5321292877197266
+2021-07-14 14:50:24:root:INFO:started request
+2021-07-14 14:50:27:root:INFO:ended request! Time taken : 2.0709428787231445
+2021-07-14 14:50:31:root:INFO:started request
+2021-07-14 14:50:33:root:INFO:ended request! Time taken : 2.0672194957733154
+2021-07-14 14:50:38:root:INFO:started request
+2021-07-14 14:50:40:root:INFO:ended request! Time taken : 2.3864166736602783
+2021-07-14 14:50:45:root:INFO:started request
+2021-07-14 14:50:47:root:INFO:ended request! Time taken : 2.0125412940979004
+2021-07-14 14:50:51:root:INFO:started request
+2021-07-14 14:50:53:root:INFO:ended request! Time taken : 1.8195884227752686
+2021-07-14 14:50:58:root:INFO:started request
+2021-07-14 14:51:00:root:INFO:ended request! Time taken : 1.897930383682251
+2021-07-14 14:51:04:root:INFO:started request
+2021-07-14 14:51:07:root:INFO:ended request! Time taken : 2.8703486919403076
+2021-07-14 14:51:12:root:INFO:started request
+2021-07-14 14:51:15:root:INFO:ended request! Time taken : 2.7903175354003906
+2021-07-14 14:51:19:root:INFO:started request
+2021-07-14 14:51:22:root:INFO:ended request! Time taken : 3.028499126434326
+2021-07-14 14:51:27:root:INFO:started request
+2021-07-14 14:51:29:root:INFO:ended request! Time taken : 1.6546776294708252
+2021-07-14 14:51:33:root:INFO:started request
+2021-07-14 14:51:35:root:INFO:ended request! Time taken : 1.911865472793579
+2021-07-14 14:51:40:root:INFO:started request
+2021-07-14 14:51:43:root:INFO:ended request! Time taken : 3.2933926582336426
+2021-07-14 14:51:48:root:INFO:started request
+2021-07-14 14:51:50:root:INFO:ended request! Time taken : 2.690251111984253
+2021-07-14 14:51:56:root:INFO:started request
+2021-07-14 14:51:58:root:INFO:ended request! Time taken : 2.104430913925171
+2021-07-14 14:52:03:root:INFO:started request
+2021-07-14 14:54:09:root:INFO:started request
+2021-07-14 14:54:11:root:INFO:ended request! Time taken : 1.8049283027648926
+2021-07-14 14:54:15:root:INFO:started request
+2021-07-14 14:54:17:root:INFO:ended request! Time taken : 1.8731544017791748
+2021-07-14 14:54:21:root:INFO:started request
+2021-07-14 14:54:23:root:INFO:ended request! Time taken : 1.9350590705871582
+2021-07-14 14:54:28:root:INFO:started request
+2021-07-14 14:54:31:root:INFO:ended request! Time taken : 2.9362640380859375
+2021-07-14 14:54:36:root:INFO:started request
+2021-07-14 14:54:38:root:INFO:ended request! Time taken : 2.5066277980804443
+2021-07-14 14:54:43:root:INFO:started request
+2021-07-14 14:54:46:root:INFO:ended request! Time taken : 2.570643186569214
+2021-07-14 14:54:51:root:INFO:started request
+2021-07-14 14:54:53:root:INFO:ended request! Time taken : 2.4896767139434814
+2021-07-14 14:56:10:root:INFO:started request
+2021-07-14 14:56:12:root:INFO:ended request! Time taken : 2.066991090774536
+2021-07-14 14:56:16:root:INFO:started request
+2021-07-14 14:56:18:root:INFO:ended request! Time taken : 1.8785457611083984
+2021-07-14 14:56:22:root:INFO:started request
+2021-07-14 14:56:23:root:INFO:ended request! Time taken : 1.7233445644378662
+2021-07-14 14:56:28:root:INFO:started request
+2021-07-14 14:56:30:root:INFO:ended request! Time taken : 2.614717721939087
+2021-07-14 14:56:35:root:INFO:started request
+2021-07-14 14:56:38:root:INFO:ended request! Time taken : 2.2811245918273926
+2021-07-14 14:56:45:root:INFO:started request
+2021-07-14 14:56:47:root:INFO:ended request! Time taken : 2.1751701831817627
+2021-07-14 14:56:51:root:INFO:started request
+2021-07-14 14:56:53:root:INFO:ended request! Time taken : 2.11694598197937
+2021-07-14 14:56:57:root:INFO:started request
+2021-07-14 14:57:00:root:INFO:ended request! Time taken : 2.8537187576293945
+2021-07-14 14:57:04:root:INFO:started request
+2021-07-14 14:57:06:root:INFO:ended request! Time taken : 2.4878618717193604
+2021-07-14 14:57:11:root:INFO:started request
+2021-07-14 14:57:14:root:INFO:ended request! Time taken : 2.8015942573547363
+2021-07-14 14:57:18:root:INFO:started request
+2021-07-14 14:57:20:root:INFO:ended request! Time taken : 2.0946667194366455
+2021-07-14 14:57:25:root:INFO:started request
+2021-07-14 14:57:27:root:INFO:ended request! Time taken : 2.5191233158111572
+2021-07-14 14:57:31:root:INFO:started request
+2021-07-14 14:57:33:root:INFO:ended request! Time taken : 1.6978590488433838
+2021-07-14 14:57:37:root:INFO:started request
+2021-07-14 14:57:40:root:INFO:ended request! Time taken : 3.022904634475708
+2021-07-14 14:57:46:root:INFO:started request
+2021-07-14 14:57:48:root:INFO:ended request! Time taken : 1.7888152599334717
+2021-07-14 14:57:52:root:INFO:started request
+2021-07-14 14:57:54:root:INFO:ended request! Time taken : 1.8639123439788818
+2021-07-14 14:57:58:root:INFO:started request
+2021-07-14 14:58:00:root:INFO:ended request! Time taken : 1.9186038970947266
+2021-07-14 14:58:04:root:INFO:started request
+2021-07-14 14:58:07:root:INFO:ended request! Time taken : 2.4896111488342285
+2021-07-14 14:58:12:root:INFO:started request
+2021-07-14 14:58:15:root:INFO:ended request! Time taken : 2.129072427749634
+2021-07-14 14:58:19:root:INFO:started request
+2021-07-14 14:58:21:root:INFO:ended request! Time taken : 2.0677130222320557
+2021-07-14 14:58:25:root:INFO:started request
+2021-07-14 14:58:27:root:INFO:ended request! Time taken : 1.9012000560760498
+2021-07-14 14:58:33:root:INFO:started request
+2021-07-14 14:58:35:root:INFO:ended request! Time taken : 2.0631659030914307
+2021-07-14 14:58:40:root:INFO:started request
+2021-07-14 14:58:43:root:INFO:ended request! Time taken : 2.7519259452819824
+2021-07-14 14:58:47:root:INFO:started request
+2021-07-14 14:58:51:root:INFO:ended request! Time taken : 3.6565394401550293
+2021-07-14 14:58:57:root:INFO:started request
+2021-07-14 14:58:59:root:INFO:ended request! Time taken : 2.3979029655456543
+2021-07-14 14:59:04:root:INFO:started request
+2021-07-14 14:59:05:root:INFO:ended request! Time taken : 1.8702173233032227
+2021-07-14 14:59:10:root:INFO:started request
+2021-07-14 14:59:12:root:INFO:ended request! Time taken : 1.9014897346496582
+2021-07-14 14:59:17:root:INFO:started request
+2021-07-14 14:59:19:root:INFO:ended request! Time taken : 2.490003824234009
+2021-07-14 14:59:24:root:INFO:started request
+2021-07-14 14:59:25:root:INFO:ended request! Time taken : 1.9104259014129639
+2021-07-14 14:59:30:root:INFO:started request
+2021-07-14 14:59:31:root:INFO:ended request! Time taken : 1.745147466659546
+2021-07-14 14:59:40:root:INFO:started request
+2021-07-14 14:59:43:root:INFO:ended request! Time taken : 2.3509914875030518
+2021-07-14 14:59:47:root:INFO:started request
+2021-07-14 14:59:49:root:INFO:ended request! Time taken : 2.068364143371582
+2021-07-14 14:59:54:root:INFO:started request
+2021-07-14 14:59:57:root:INFO:ended request! Time taken : 2.89128041267395
+2021-07-14 15:00:06:root:INFO:started request
+2021-07-14 15:00:09:root:INFO:ended request! Time taken : 2.7065610885620117
+2021-07-14 15:00:16:root:INFO:started request
+2021-07-14 15:00:19:root:INFO:ended request! Time taken : 2.44160795211792
+2021-07-14 15:00:25:root:INFO:started request
+2021-07-14 15:00:27:root:INFO:ended request! Time taken : 2.444817304611206
+2021-07-14 15:00:32:root:INFO:started request
+2021-07-14 15:00:35:root:INFO:ended request! Time taken : 2.253739356994629
+2021-07-14 15:00:40:root:INFO:started request
+2021-07-14 15:00:43:root:INFO:ended request! Time taken : 3.1074957847595215
+2021-07-14 15:00:46:root:INFO:started request
+2021-07-14 15:00:48:root:INFO:ended request! Time taken : 1.6443428993225098
+2021-07-14 15:00:53:root:INFO:started request
+2021-07-14 15:00:55:root:INFO:ended request! Time taken : 1.7869164943695068
+2021-07-14 15:00:59:root:INFO:started request
+2021-07-14 15:01:01:root:INFO:ended request! Time taken : 2.50825572013855
+2021-07-14 15:01:06:root:INFO:started request
+2021-07-14 15:01:09:root:INFO:ended request! Time taken : 2.5817408561706543
+2021-07-14 15:01:13:root:INFO:started request
+2021-07-14 15:01:15:root:INFO:ended request! Time taken : 1.8897552490234375
+2021-07-14 15:01:20:root:INFO:started request
+2021-07-14 15:01:23:root:INFO:ended request! Time taken : 2.8435168266296387
+2021-07-14 15:01:27:root:INFO:started request
+2021-07-14 15:01:29:root:INFO:ended request! Time taken : 1.9878356456756592
+2021-07-14 15:01:33:root:INFO:started request
+2021-07-14 15:01:35:root:INFO:ended request! Time taken : 1.9377362728118896
+2021-07-14 15:01:38:root:INFO:started request
+2021-07-14 15:01:40:root:INFO:ended request! Time taken : 1.8596785068511963
+2021-07-14 15:01:43:root:INFO:started request
+2021-07-14 15:01:46:root:INFO:ended request! Time taken : 2.9209470748901367
+2021-07-14 15:01:51:root:INFO:started request
+2021-07-14 15:01:53:root:INFO:ended request! Time taken : 2.7115206718444824
+2021-07-14 15:01:56:root:INFO:started request
+2021-07-14 15:01:58:root:INFO:ended request! Time taken : 2.014143466949463
+2021-07-14 15:02:02:root:INFO:started request
+2021-07-14 15:02:03:root:INFO:ended request! Time taken : 1.920490026473999
+2021-07-14 15:02:07:root:INFO:started request
+2021-07-14 15:02:08:root:INFO:ended request! Time taken : 1.844649314880371
+2021-07-14 15:02:12:root:INFO:started request
+2021-07-14 15:02:15:root:INFO:ended request! Time taken : 3.0229835510253906
+2021-07-14 15:02:18:root:INFO:started request
+2021-07-14 15:02:21:root:INFO:ended request! Time taken : 2.549800157546997
+2021-07-14 15:02:24:root:INFO:started request
+2021-07-14 15:02:26:root:INFO:ended request! Time taken : 1.8254718780517578
+2021-07-14 15:02:29:root:INFO:started request
+2021-07-14 15:02:32:root:INFO:ended request! Time taken : 2.4540224075317383
+2021-07-14 15:02:35:root:INFO:started request
+2021-07-14 15:02:37:root:INFO:ended request! Time taken : 2.221646785736084
+2021-07-14 15:02:41:root:INFO:started request
+2021-07-14 15:02:43:root:INFO:ended request! Time taken : 2.042323112487793
+2021-07-14 15:02:47:root:INFO:started request
+2021-07-14 15:02:49:root:INFO:ended request! Time taken : 1.908679485321045
+2021-07-14 15:02:53:root:INFO:started request
+2021-07-14 15:02:55:root:INFO:ended request! Time taken : 2.9205942153930664
+2021-07-14 15:02:59:root:INFO:started request
+2021-07-14 15:03:00:root:INFO:ended request! Time taken : 1.5686678886413574
+2021-07-14 15:03:03:root:INFO:started request
+2021-07-14 15:03:05:root:INFO:ended request! Time taken : 1.8224208354949951
+2021-07-14 15:03:09:root:INFO:started request
+2021-07-14 15:03:11:root:INFO:ended request! Time taken : 2.39082932472229
+2021-07-14 15:03:14:root:INFO:started request
+2021-07-14 15:03:17:root:INFO:ended request! Time taken : 2.333843231201172
+2021-07-14 15:03:20:root:INFO:started request
+2021-07-14 15:03:22:root:INFO:ended request! Time taken : 2.806776762008667
+2021-07-14 15:03:26:root:INFO:started request
+2021-07-14 15:03:28:root:INFO:ended request! Time taken : 1.9277572631835938
+2021-07-14 15:03:31:root:INFO:started request
+2021-07-14 15:03:33:root:INFO:ended request! Time taken : 2.044179677963257
+2021-07-14 15:03:37:root:INFO:started request
+2021-07-14 15:03:38:root:INFO:ended request! Time taken : 1.8110804557800293
+2021-07-14 15:03:41:root:INFO:started request
+2021-07-14 15:03:43:root:INFO:ended request! Time taken : 1.8797500133514404
+2021-07-14 15:03:47:root:INFO:started request
+2021-07-14 15:03:49:root:INFO:ended request! Time taken : 1.9320628643035889
+2021-07-14 15:03:52:root:INFO:started request
+2021-07-14 15:03:54:root:INFO:ended request! Time taken : 2.079467535018921
+2021-07-14 15:03:57:root:INFO:started request
+2021-07-14 15:04:01:root:INFO:ended request! Time taken : 3.846224069595337
+2021-07-14 15:04:04:root:INFO:started request
+2021-07-14 15:04:06:root:INFO:ended request! Time taken : 2.032289981842041
+2021-07-14 15:04:09:root:INFO:started request
+2021-07-14 15:04:11:root:INFO:ended request! Time taken : 1.9061646461486816
+2021-07-14 15:04:14:root:INFO:started request
+2021-07-14 15:04:17:root:INFO:ended request! Time taken : 2.444448947906494
+2021-07-14 15:04:20:root:INFO:started request
+2021-07-14 15:04:22:root:INFO:ended request! Time taken : 2.1869518756866455
+2021-07-14 15:04:26:root:INFO:started request
+2021-07-14 15:04:28:root:INFO:ended request! Time taken : 1.9676425457000732
+2021-07-14 15:04:31:root:INFO:started request
+2021-07-14 15:04:33:root:INFO:ended request! Time taken : 2.4896936416625977
+2021-07-14 15:04:37:root:INFO:started request
+2021-07-14 15:04:38:root:INFO:ended request! Time taken : 1.8228390216827393
+2021-07-14 15:04:42:root:INFO:started request
+2021-07-14 15:04:44:root:INFO:ended request! Time taken : 2.3691985607147217
+2021-07-14 15:04:47:root:INFO:started request
+2021-07-14 15:04:49:root:INFO:ended request! Time taken : 1.7955350875854492
+2021-07-14 15:04:52:root:INFO:started request
+2021-07-14 15:04:54:root:INFO:ended request! Time taken : 1.584003210067749
+2021-07-14 15:04:57:root:INFO:started request
+2021-07-14 15:04:59:root:INFO:ended request! Time taken : 1.9275238513946533
+2021-07-14 15:05:04:root:INFO:started request
+2021-07-14 15:05:06:root:INFO:ended request! Time taken : 2.0586352348327637
+2021-07-14 15:05:09:root:INFO:started request
+2021-07-14 15:05:11:root:INFO:ended request! Time taken : 1.6897339820861816
+2021-07-14 15:05:14:root:INFO:started request
+2021-07-14 15:05:16:root:INFO:ended request! Time taken : 1.9882824420928955
+2021-07-14 15:05:19:root:INFO:started request
+2021-07-14 15:05:21:root:INFO:ended request! Time taken : 2.0658674240112305
+2021-07-14 15:05:25:root:INFO:started request
+2021-07-14 15:05:27:root:INFO:ended request! Time taken : 1.9143884181976318
+2021-07-14 15:05:31:root:INFO:started request
+2021-07-14 15:05:33:root:INFO:ended request! Time taken : 1.8650016784667969
+2021-07-14 15:05:36:root:INFO:started request
+2021-07-14 15:05:38:root:INFO:ended request! Time taken : 2.3807880878448486
+2021-07-14 15:05:46:root:INFO:started request
+2021-07-14 15:05:48:root:INFO:ended request! Time taken : 1.9041101932525635
+2021-07-14 15:05:54:root:INFO:started request
+2021-07-14 15:05:56:root:INFO:ended request! Time taken : 1.76289701461792
+2021-07-14 15:05:59:root:INFO:started request
+2021-07-14 15:06:01:root:INFO:ended request! Time taken : 1.9621562957763672
+2021-07-14 15:06:05:root:INFO:started request
+2021-07-14 15:06:07:root:INFO:ended request! Time taken : 2.2521400451660156
+2021-07-14 15:06:11:root:INFO:started request
+2021-07-14 15:06:13:root:INFO:ended request! Time taken : 2.4386146068573
+2021-07-14 15:06:17:root:INFO:started request
+2021-07-14 15:06:19:root:INFO:ended request! Time taken : 2.1468002796173096
+2021-07-14 15:06:23:root:INFO:started request
+2021-07-14 15:06:25:root:INFO:ended request! Time taken : 2.4644269943237305
+2021-07-14 15:06:29:root:INFO:started request
+2021-07-14 15:06:31:root:INFO:ended request! Time taken : 2.148867130279541
+2021-07-14 15:06:34:root:INFO:started request
+2021-07-14 15:06:36:root:INFO:ended request! Time taken : 1.8127341270446777
+2021-07-14 15:06:40:root:INFO:started request
+2021-07-14 15:06:42:root:INFO:ended request! Time taken : 1.8583574295043945
+2021-07-14 15:06:45:root:INFO:started request
+2021-07-14 15:06:48:root:INFO:ended request! Time taken : 2.9449262619018555
+2021-07-14 15:06:51:root:INFO:started request
+2021-07-14 15:06:52:root:INFO:ended request! Time taken : 1.6402747631072998
+2021-07-14 15:06:55:root:INFO:started request
+2021-07-14 15:06:57:root:INFO:ended request! Time taken : 1.9521842002868652
+2021-07-14 15:07:01:root:INFO:started request
+2021-07-14 15:07:02:root:INFO:ended request! Time taken : 1.685781717300415
+2021-07-14 15:07:06:root:INFO:started request
+2021-07-14 15:07:09:root:INFO:ended request! Time taken : 2.7999274730682373
+2021-07-14 15:07:12:root:INFO:started request
+2021-07-14 15:07:14:root:INFO:ended request! Time taken : 2.3704042434692383
+2021-07-14 15:07:17:root:INFO:started request
+2021-07-14 15:07:20:root:INFO:ended request! Time taken : 2.489377021789551
+2021-07-14 15:07:23:root:INFO:started request
+2021-07-14 15:07:25:root:INFO:ended request! Time taken : 2.417057514190674
+2021-07-14 15:07:29:root:INFO:started request
+2021-07-14 15:07:32:root:INFO:ended request! Time taken : 2.7572507858276367
+2021-07-14 15:07:36:root:INFO:started request
+2021-07-14 15:07:38:root:INFO:ended request! Time taken : 2.861163377761841
+2021-07-14 15:07:42:root:INFO:started request
+2021-07-14 15:07:45:root:INFO:ended request! Time taken : 3.010385274887085
+2021-07-14 15:07:49:root:INFO:started request
+2021-07-14 15:07:51:root:INFO:ended request! Time taken : 1.9584167003631592
+2021-07-14 15:07:54:root:INFO:started request
+2021-07-14 15:07:58:root:INFO:ended request! Time taken : 3.3096401691436768
+2021-07-14 15:08:02:root:INFO:started request
+2021-07-14 15:08:04:root:INFO:ended request! Time taken : 1.935889482498169
+2021-07-14 15:08:05:root:INFO:started request
+2021-07-14 15:08:06:root:INFO:ended request! Time taken : 1.7400078773498535
+2021-07-14 15:08:07:root:INFO:started request
+2021-07-14 15:08:10:root:INFO:started request
+2021-07-14 15:08:10:root:INFO:ended request! Time taken : 2.5150065422058105
+2021-07-14 15:08:11:root:INFO:ended request! Time taken : 1.7535533905029297
+2021-07-14 15:08:15:root:INFO:started request
+2021-07-14 15:08:16:root:INFO:started request
+2021-07-14 15:08:17:root:INFO:ended request! Time taken : 2.050678014755249
+2021-07-14 15:08:18:root:INFO:ended request! Time taken : 1.7488813400268555
+2021-07-14 15:08:20:root:INFO:started request
+2021-07-14 15:08:21:root:INFO:started request
+2021-07-14 15:08:22:root:INFO:ended request! Time taken : 2.146911144256592
+2021-07-14 15:08:24:root:INFO:ended request! Time taken : 2.5037546157836914
+2021-07-14 15:08:26:root:INFO:started request
+2021-07-14 15:08:28:root:INFO:started request
+2021-07-14 15:08:28:root:INFO:ended request! Time taken : 1.8236453533172607
+2021-07-14 15:08:30:root:INFO:ended request! Time taken : 1.7654106616973877
+2021-07-14 15:08:32:root:INFO:started request
+2021-07-14 15:08:33:root:INFO:started request
+2021-07-14 15:08:34:root:INFO:ended request! Time taken : 2.2916641235351562
+2021-07-14 15:08:35:root:INFO:ended request! Time taken : 2.0947229862213135
+2021-07-14 15:08:37:root:INFO:started request
+2021-07-14 15:08:39:root:INFO:ended request! Time taken : 1.8429768085479736
+2021-07-14 15:08:39:root:INFO:started request
+2021-07-14 15:08:41:root:INFO:ended request! Time taken : 2.132781505584717
+2021-07-14 15:08:43:root:INFO:started request
+2021-07-14 15:08:45:root:INFO:ended request! Time taken : 1.8986964225769043
+2021-07-14 15:08:45:root:INFO:started request
+2021-07-14 15:08:48:root:INFO:ended request! Time taken : 2.478576421737671
+2021-07-14 15:08:48:root:INFO:started request
+2021-07-14 15:08:50:root:INFO:ended request! Time taken : 1.7749826908111572
+2021-07-14 15:08:52:root:INFO:started request
+2021-07-14 15:08:54:root:INFO:started request
+2021-07-14 15:08:55:root:INFO:ended request! Time taken : 2.49695086479187
+2021-07-14 15:08:56:root:INFO:ended request! Time taken : 1.909874677658081
+2021-07-14 15:08:58:root:INFO:started request
+2021-07-14 15:09:00:root:INFO:started request
+2021-07-14 15:09:01:root:INFO:ended request! Time taken : 2.545285701751709
+2021-07-14 15:09:03:root:INFO:ended request! Time taken : 2.9735541343688965
+2021-07-14 15:09:04:root:INFO:started request
+2021-07-14 15:09:07:root:INFO:started request
+2021-07-14 15:09:07:root:INFO:ended request! Time taken : 3.0622124671936035
+2021-07-14 15:09:09:root:INFO:ended request! Time taken : 2.419250965118408
+2021-07-14 15:09:11:root:INFO:started request
+2021-07-14 15:09:13:root:INFO:ended request! Time taken : 2.296931028366089
+2021-07-14 15:09:14:root:INFO:started request
+2021-07-14 15:09:16:root:INFO:ended request! Time taken : 2.475578784942627
+2021-07-14 15:09:18:root:INFO:started request
+2021-07-14 15:09:20:root:INFO:ended request! Time taken : 1.7464590072631836
+2021-07-14 15:09:22:root:INFO:started request
+2021-07-14 15:09:24:root:INFO:ended request! Time taken : 1.9211690425872803
+2021-07-14 15:09:25:root:INFO:started request
+2021-07-14 15:09:28:root:INFO:ended request! Time taken : 2.2120018005371094
+2021-07-14 15:09:29:root:INFO:started request
+2021-07-14 15:09:31:root:INFO:ended request! Time taken : 1.93939208984375
+2021-07-14 15:09:32:root:INFO:started request
+2021-07-14 15:09:34:root:INFO:ended request! Time taken : 1.9482622146606445
+2021-07-14 15:09:35:root:INFO:started request
+2021-07-14 15:09:38:root:INFO:ended request! Time taken : 3.0768933296203613
+2021-07-14 15:09:38:root:INFO:started request
+2021-07-14 15:09:40:root:INFO:ended request! Time taken : 2.254711389541626
+2021-07-14 15:09:41:root:INFO:started request
+2021-07-14 15:09:43:root:INFO:ended request! Time taken : 2.1237809658050537
+2021-07-14 15:09:44:root:INFO:started request
+2021-07-14 15:09:46:root:INFO:ended request! Time taken : 1.8204374313354492
+2021-07-14 15:09:48:root:INFO:started request
+2021-07-14 15:09:50:root:INFO:ended request! Time taken : 2.023841142654419
+2021-07-14 15:09:51:root:INFO:started request
+2021-07-14 15:09:54:root:INFO:ended request! Time taken : 2.3000900745391846
+2021-07-14 15:09:55:root:INFO:started request
+2021-07-14 15:09:57:root:INFO:ended request! Time taken : 2.3157079219818115
+2021-07-14 15:09:58:root:INFO:started request
+2021-07-14 15:10:00:root:INFO:ended request! Time taken : 1.7469983100891113
+2021-07-14 15:10:02:root:INFO:started request
+2021-07-14 15:10:04:root:INFO:ended request! Time taken : 1.9188990592956543
+2021-07-14 15:10:05:root:INFO:started request
+2021-07-14 15:10:07:root:INFO:ended request! Time taken : 1.7539927959442139
+2021-07-14 15:10:09:root:INFO:started request
+2021-07-14 15:10:11:root:INFO:ended request! Time taken : 2.769524574279785
+2021-07-14 15:10:13:root:INFO:started request
+2021-07-14 15:10:14:root:INFO:ended request! Time taken : 1.6980249881744385
+2021-07-14 15:10:16:root:INFO:started request
+2021-07-14 15:10:18:root:INFO:ended request! Time taken : 2.7633728981018066
+2021-07-14 15:10:19:root:INFO:started request
+2021-07-14 15:10:22:root:INFO:ended request! Time taken : 2.9219601154327393
+2021-07-14 15:10:27:root:INFO:started request
+2021-07-14 15:10:29:root:INFO:ended request! Time taken : 2.4016289710998535
+2021-07-14 15:10:30:root:INFO:started request
+2021-07-14 15:10:32:root:INFO:ended request! Time taken : 1.7624049186706543
+2021-07-14 15:10:33:root:INFO:started request
+2021-07-14 15:10:35:root:INFO:ended request! Time taken : 2.2727127075195312
+2021-07-14 15:10:35:root:INFO:started request
+2021-07-14 15:10:37:root:INFO:ended request! Time taken : 1.8399438858032227
+2021-07-14 15:10:39:root:INFO:started request
+2021-07-14 15:10:41:root:INFO:started request
+2021-07-14 15:10:41:root:INFO:ended request! Time taken : 2.2934563159942627
+2021-07-14 15:10:42:root:INFO:ended request! Time taken : 1.7292895317077637
+2021-07-14 15:10:45:root:INFO:started request
+2021-07-14 15:10:46:root:INFO:started request
+2021-07-14 15:10:47:root:INFO:ended request! Time taken : 1.740673542022705
+2021-07-14 15:10:49:root:INFO:ended request! Time taken : 2.4532630443573
+2021-07-14 15:10:52:root:INFO:started request
+2021-07-14 15:10:54:root:INFO:ended request! Time taken : 1.7894976139068604
+2021-07-14 15:10:55:root:INFO:started request
+2021-07-14 15:10:57:root:INFO:ended request! Time taken : 2.4636881351470947
+2021-07-14 15:11:01:root:INFO:started request
+2021-07-14 15:11:03:root:INFO:started request
+2021-07-14 15:11:04:root:INFO:ended request! Time taken : 2.622307777404785
+2021-07-14 15:11:05:root:INFO:ended request! Time taken : 2.181830644607544
+2021-07-14 15:11:08:root:INFO:started request
+2021-07-14 15:11:09:root:INFO:started request
+2021-07-14 15:11:10:root:INFO:ended request! Time taken : 1.6631484031677246
+2021-07-14 15:11:12:root:INFO:ended request! Time taken : 2.1975021362304688
+2021-07-14 15:11:14:root:INFO:started request
+2021-07-14 15:11:16:root:INFO:ended request! Time taken : 2.02205491065979
+2021-07-14 15:11:17:root:INFO:started request
+2021-07-14 15:11:19:root:INFO:ended request! Time taken : 2.5425431728363037
+2021-07-14 15:11:21:root:INFO:started request
+2021-07-14 15:11:23:root:INFO:ended request! Time taken : 2.0163724422454834
+2021-07-14 15:11:24:root:INFO:started request
+2021-07-14 15:11:26:root:INFO:ended request! Time taken : 2.5075929164886475
+2021-07-14 15:11:27:root:INFO:started request
+2021-07-14 15:11:29:root:INFO:ended request! Time taken : 2.539551019668579
+2021-07-14 15:11:30:root:INFO:started request
+2021-07-14 15:11:33:root:INFO:ended request! Time taken : 2.9194371700286865
+2021-07-14 15:11:33:root:INFO:started request
+2021-07-14 15:11:36:root:INFO:ended request! Time taken : 2.517554521560669
+2021-07-14 15:11:36:root:INFO:started request
+2021-07-14 15:11:38:root:INFO:ended request! Time taken : 1.6430563926696777
+2021-07-14 15:11:40:root:INFO:started request
+2021-07-14 15:11:43:root:INFO:ended request! Time taken : 2.527549982070923
+2021-07-14 15:11:43:root:INFO:started request
+2021-07-14 15:11:46:root:INFO:ended request! Time taken : 2.14776873588562
+2021-07-14 15:11:46:root:INFO:started request
+2021-07-14 15:11:48:root:INFO:ended request! Time taken : 2.709449052810669
+2021-07-14 15:11:49:root:INFO:started request
+2021-07-14 15:11:50:root:INFO:ended request! Time taken : 1.6470508575439453
+2021-07-14 15:11:55:root:INFO:started request
+2021-07-14 15:11:57:root:INFO:started request
+2021-07-14 15:11:57:root:INFO:ended request! Time taken : 2.2878806591033936
+2021-07-14 15:11:59:root:INFO:ended request! Time taken : 2.071974039077759
+2021-07-14 15:12:01:root:INFO:started request
+2021-07-14 15:12:03:root:INFO:started request
+2021-07-14 15:12:04:root:INFO:ended request! Time taken : 2.288349151611328
+2021-07-14 15:12:05:root:INFO:ended request! Time taken : 1.9625370502471924
+2021-07-14 15:12:08:root:INFO:started request
+2021-07-14 15:12:10:root:INFO:started request
+2021-07-14 15:12:11:root:INFO:ended request! Time taken : 2.4705846309661865
+2021-07-14 15:12:12:root:INFO:ended request! Time taken : 1.8402912616729736
+2021-07-14 15:12:16:root:INFO:started request
+2021-07-14 15:12:17:root:INFO:started request
+2021-07-14 15:12:18:root:INFO:ended request! Time taken : 1.7648334503173828
+2021-07-14 15:12:18:root:INFO:ended request! Time taken : 1.686006784439087
+2021-07-14 15:12:22:root:INFO:started request
+2021-07-14 15:12:23:root:INFO:started request
+2021-07-14 15:12:24:root:INFO:ended request! Time taken : 1.8229162693023682
+2021-07-14 15:12:25:root:INFO:ended request! Time taken : 2.1177752017974854
+2021-07-14 15:12:28:root:INFO:started request
+2021-07-14 15:12:29:root:INFO:started request
+2021-07-14 15:12:30:root:INFO:ended request! Time taken : 2.1896772384643555
+2021-07-14 15:12:31:root:INFO:ended request! Time taken : 1.693810224533081
+2021-07-14 15:12:35:root:INFO:started request
+2021-07-14 15:12:35:root:INFO:started request
+2021-07-14 15:12:36:root:INFO:ended request! Time taken : 1.912384033203125
+2021-07-14 15:12:38:root:INFO:ended request! Time taken : 2.621893882751465
+2021-07-14 15:12:40:root:INFO:started request
+2021-07-14 15:12:42:root:INFO:started request
+2021-07-14 15:12:43:root:INFO:ended request! Time taken : 2.2155001163482666
+2021-07-14 15:12:44:root:INFO:ended request! Time taken : 1.641434669494629
+2021-07-14 15:12:47:root:INFO:started request
+2021-07-14 15:12:48:root:INFO:started request
+2021-07-14 15:12:49:root:INFO:ended request! Time taken : 2.3576831817626953
+2021-07-14 15:12:50:root:INFO:ended request! Time taken : 1.701026439666748
+2021-07-14 15:12:53:root:INFO:started request
+2021-07-14 15:12:54:root:INFO:started request
+2021-07-14 15:12:55:root:INFO:ended request! Time taken : 1.9288275241851807
+2021-07-14 15:12:56:root:INFO:ended request! Time taken : 2.069888114929199
+2021-07-14 15:12:59:root:INFO:started request
+2021-07-14 15:13:01:root:INFO:started request
+2021-07-14 15:13:01:root:INFO:ended request! Time taken : 1.9332096576690674
+2021-07-14 15:13:03:root:INFO:ended request! Time taken : 2.2583694458007812
+2021-07-14 15:13:05:root:INFO:started request
+2021-07-14 15:13:07:root:INFO:ended request! Time taken : 2.0697813034057617
+2021-07-14 15:13:08:root:INFO:started request
+2021-07-14 15:13:09:root:INFO:ended request! Time taken : 1.7929728031158447
+2021-07-14 15:13:11:root:INFO:started request
+2021-07-14 15:13:13:root:INFO:started request
+2021-07-14 15:13:14:root:INFO:ended request! Time taken : 2.8227012157440186
+2021-07-14 15:13:15:root:INFO:ended request! Time taken : 1.7116336822509766
+2021-07-14 15:13:18:root:INFO:started request
+2021-07-14 15:13:19:root:INFO:started request
+2021-07-14 15:13:21:root:INFO:ended request! Time taken : 1.7097692489624023
+2021-07-14 15:13:21:root:INFO:ended request! Time taken : 3.4475808143615723
+2021-07-14 15:13:35:root:INFO:started request
+2021-07-14 15:13:37:root:INFO:ended request! Time taken : 1.7080395221710205
+2021-07-14 15:13:40:root:INFO:started request
+2021-07-14 15:13:42:root:INFO:ended request! Time taken : 2.0088698863983154
+2021-07-14 15:13:45:root:INFO:started request
+2021-07-14 15:13:48:root:INFO:ended request! Time taken : 3.192965507507324
+2021-07-14 15:13:52:root:INFO:started request
+2021-07-14 15:13:55:root:INFO:ended request! Time taken : 2.8918168544769287
+2021-07-14 15:14:00:root:INFO:started request
+2021-07-14 15:14:03:root:INFO:ended request! Time taken : 2.421436071395874
+2021-07-14 15:14:06:root:INFO:started request
+2021-07-14 15:14:08:root:INFO:ended request! Time taken : 2.444639205932617
+2021-07-14 15:14:12:root:INFO:started request
+2021-07-14 15:14:14:root:INFO:ended request! Time taken : 2.4296698570251465
+2021-07-14 15:14:17:root:INFO:started request
+2021-07-14 15:14:20:root:INFO:ended request! Time taken : 2.8541371822357178
+2021-07-14 15:14:23:root:INFO:started request
+2021-07-14 15:14:26:root:INFO:ended request! Time taken : 2.946608781814575
+2021-07-14 15:14:29:root:INFO:started request
+2021-07-14 15:14:32:root:INFO:ended request! Time taken : 2.4656012058258057
+2021-07-14 15:14:37:root:INFO:started request
+2021-07-14 15:14:39:root:INFO:ended request! Time taken : 1.9507293701171875
+2021-07-14 15:14:42:root:INFO:started request
+2021-07-14 15:14:45:root:INFO:ended request! Time taken : 2.213947296142578
+2021-07-14 15:14:49:root:INFO:started request
+2021-07-14 15:14:51:root:INFO:ended request! Time taken : 1.837733268737793
+2021-07-14 15:14:55:root:INFO:started request
+2021-07-14 15:14:58:root:INFO:ended request! Time taken : 3.379542112350464
+2021-07-14 15:15:01:root:INFO:started request
+2021-07-14 15:15:04:root:INFO:ended request! Time taken : 2.751880645751953
+2021-07-14 15:15:07:root:INFO:started request
+2021-07-14 15:23:54:root:INFO:started request
+2021-07-14 15:23:56:root:INFO:ended request! Time taken : 2.002041816711426
+2021-07-14 15:23:59:root:INFO:started request
+2021-07-14 15:24:01:root:INFO:ended request! Time taken : 1.9395554065704346
+2021-07-14 15:24:04:root:INFO:started request
+2021-07-14 15:24:06:root:INFO:ended request! Time taken : 1.9153213500976562
+2021-07-14 15:24:09:root:INFO:started request
+2021-07-14 15:24:12:root:INFO:ended request! Time taken : 3.0633134841918945
+2021-07-14 15:24:15:root:INFO:started request
+2021-07-14 15:24:18:root:INFO:ended request! Time taken : 2.384096384048462
+2021-07-14 15:24:22:root:INFO:started request
+2021-07-14 15:24:25:root:INFO:ended request! Time taken : 2.4070162773132324
+2021-07-14 15:24:28:root:INFO:started request
+2021-07-14 15:24:31:root:INFO:ended request! Time taken : 2.3499715328216553
+2021-07-14 15:24:35:root:INFO:started request
+2021-07-14 15:24:38:root:INFO:ended request! Time taken : 2.795301914215088
+2021-07-14 15:24:43:root:INFO:started request
+2021-07-14 15:24:46:root:INFO:ended request! Time taken : 3.1152098178863525
+2021-07-14 15:24:51:root:INFO:started request
+2021-07-14 15:24:54:root:INFO:ended request! Time taken : 2.802783966064453
+2021-07-14 15:24:57:root:INFO:started request
+2021-07-14 15:24:59:root:INFO:ended request! Time taken : 1.884328842163086
+2021-07-14 15:25:03:root:INFO:started request
+2021-07-14 15:25:06:root:INFO:ended request! Time taken : 2.4104268550872803
+2021-07-14 15:25:09:root:INFO:started request
+2021-07-14 15:25:11:root:INFO:ended request! Time taken : 1.9362196922302246
+2021-07-14 15:25:14:root:INFO:started request
+2021-07-14 15:25:17:root:INFO:ended request! Time taken : 2.4510719776153564
+2021-07-14 15:25:20:root:INFO:started request
+2021-07-14 15:25:23:root:INFO:ended request! Time taken : 2.8119924068450928
+2021-07-14 15:25:26:root:INFO:started request
+2021-07-14 15:25:28:root:INFO:ended request! Time taken : 2.2484257221221924
+2021-07-14 15:25:32:root:INFO:started request
+2021-07-14 15:25:34:root:INFO:ended request! Time taken : 1.9223518371582031
+2021-07-14 15:25:38:root:INFO:started request
+2021-07-14 15:25:40:root:INFO:ended request! Time taken : 1.8927664756774902
+2021-07-14 15:25:45:root:INFO:started request
+2021-07-14 15:25:47:root:INFO:ended request! Time taken : 1.893784523010254
+2021-07-14 15:25:50:root:INFO:started request
+2021-07-14 15:25:52:root:INFO:ended request! Time taken : 1.921905279159546
+2021-07-14 15:25:57:root:INFO:started request
+2021-07-14 15:25:59:root:INFO:ended request! Time taken : 1.8423397541046143
+2021-07-14 15:26:03:root:INFO:started request
+2021-07-14 15:26:05:root:INFO:ended request! Time taken : 2.0842807292938232
+2021-07-14 15:26:09:root:INFO:started request
+2021-07-14 15:26:12:root:INFO:ended request! Time taken : 3.27104115486145
+2021-07-14 15:26:15:root:INFO:started request
+2021-07-14 15:26:17:root:INFO:ended request! Time taken : 2.3462727069854736
+2021-07-14 15:26:20:root:INFO:started request
+2021-07-14 15:26:23:root:INFO:ended request! Time taken : 2.4464480876922607
+2021-07-14 15:26:25:root:INFO:started request
+2021-07-14 15:26:28:root:INFO:ended request! Time taken : 2.6168839931488037
+2021-07-14 15:26:31:root:INFO:started request
+2021-07-14 15:26:33:root:INFO:ended request! Time taken : 1.7493486404418945
+2021-07-14 15:26:36:root:INFO:started request
+2021-07-14 15:26:39:root:INFO:ended request! Time taken : 2.334531307220459
+2021-07-14 15:26:42:root:INFO:started request
+2021-07-14 15:26:44:root:INFO:ended request! Time taken : 2.0014290809631348
+2021-07-14 15:26:49:root:INFO:started request
+2021-07-14 15:26:51:root:INFO:ended request! Time taken : 2.131725549697876
+2021-07-14 15:26:55:root:INFO:started request
+2021-07-14 15:26:57:root:INFO:ended request! Time taken : 2.1833784580230713
+2021-07-14 15:27:01:root:INFO:started request
+2021-07-14 15:27:02:root:INFO:ended request! Time taken : 1.8004653453826904
+2021-07-14 15:27:06:root:INFO:started request
+2021-07-14 15:27:08:root:INFO:ended request! Time taken : 2.7164206504821777
+2021-07-14 15:27:12:root:INFO:started request
+2021-07-14 15:27:15:root:INFO:ended request! Time taken : 2.7442400455474854
+2021-07-14 15:27:18:root:INFO:started request
+2021-07-14 15:27:21:root:INFO:ended request! Time taken : 2.4996817111968994
+2021-07-14 15:27:24:root:INFO:started request
+2021-07-14 15:27:26:root:INFO:ended request! Time taken : 1.9373505115509033
+2021-07-14 15:27:30:root:INFO:started request
+2021-07-14 15:27:33:root:INFO:ended request! Time taken : 2.8657500743865967
+2021-07-14 15:27:36:root:INFO:started request
+2021-07-14 15:27:39:root:INFO:ended request! Time taken : 2.791762590408325
+2021-07-14 15:27:42:root:INFO:started request
+2021-07-14 15:27:44:root:INFO:ended request! Time taken : 1.9151010513305664
+2021-07-14 15:27:46:root:INFO:started request
+2021-07-14 15:27:48:root:INFO:ended request! Time taken : 1.8499982357025146
+2021-07-14 15:27:51:root:INFO:started request
+2021-07-14 15:27:54:root:INFO:ended request! Time taken : 2.445483446121216
+2021-07-14 15:27:57:root:INFO:started request
+2021-07-14 15:27:59:root:INFO:ended request! Time taken : 1.9365301132202148
+2021-07-14 15:28:03:root:INFO:started request
+2021-07-14 15:28:06:root:INFO:ended request! Time taken : 3.002119779586792
+2021-07-14 15:28:09:root:INFO:started request
+2021-07-14 15:28:11:root:INFO:ended request! Time taken : 2.319044589996338
+2021-07-14 15:28:15:root:INFO:started request
+2021-07-14 15:28:17:root:INFO:ended request! Time taken : 1.873392105102539
+2021-07-14 15:28:19:root:INFO:started request
+2021-07-14 15:28:21:root:INFO:ended request! Time taken : 1.9289624691009521
+2021-07-14 15:28:27:root:INFO:started request
+2021-07-14 15:28:29:root:INFO:ended request! Time taken : 1.9409079551696777
+2021-07-14 15:28:35:root:INFO:started request
+2021-07-14 15:28:38:root:INFO:ended request! Time taken : 2.854365348815918
+2021-07-14 15:28:43:root:INFO:started request
+2021-07-14 15:28:46:root:INFO:ended request! Time taken : 2.9632725715637207
+2021-07-14 15:28:49:root:INFO:started request
+2021-07-14 15:28:51:root:INFO:ended request! Time taken : 1.8098764419555664
+2021-07-14 15:28:54:root:INFO:started request
+2021-07-14 15:28:56:root:INFO:ended request! Time taken : 1.8632113933563232
+2021-07-14 15:29:00:root:INFO:started request
+2021-07-14 15:29:02:root:INFO:ended request! Time taken : 2.1236071586608887
+2021-07-14 15:29:06:root:INFO:started request
+2021-07-14 15:29:08:root:INFO:ended request! Time taken : 2.523808479309082
+2021-07-14 15:29:12:root:INFO:started request
+2021-07-14 15:29:14:root:INFO:ended request! Time taken : 2.5242106914520264
+2021-07-14 15:29:17:root:INFO:started request
+2021-07-14 15:29:19:root:INFO:ended request! Time taken : 1.8764123916625977
+2021-07-14 15:29:22:root:INFO:started request
+2021-07-14 15:29:25:root:INFO:ended request! Time taken : 2.7402806282043457
+2021-07-14 15:29:27:root:INFO:started request
+2021-07-14 15:29:30:root:INFO:ended request! Time taken : 2.044581651687622
+2021-07-14 15:29:34:root:INFO:started request
+2021-07-14 15:29:37:root:INFO:ended request! Time taken : 2.7338449954986572
+2021-07-14 15:29:41:root:INFO:started request
+2021-07-14 15:29:43:root:INFO:ended request! Time taken : 1.8110618591308594
+2021-07-14 15:29:47:root:INFO:started request
+2021-07-14 15:29:50:root:INFO:ended request! Time taken : 2.880586862564087
+2021-07-14 15:29:55:root:INFO:started request
+2021-07-14 15:29:57:root:INFO:ended request! Time taken : 1.9415857791900635
+2021-07-14 15:30:05:root:INFO:started request
+2021-07-14 15:30:07:root:INFO:ended request! Time taken : 2.0903148651123047
+2021-07-20 18:42:48:root:INFO:started request
+2021-07-20 18:42:50:root:INFO:ended request! Time taken : 1.8998663425445557
+2021-07-20 18:42:54:root:INFO:started request
+2021-07-20 18:42:56:root:INFO:ended request! Time taken : 1.8965516090393066
+2021-07-20 18:42:58:root:INFO:started request
+2021-07-20 18:43:00:root:INFO:ended request! Time taken : 1.9477307796478271
+2021-07-20 18:43:04:root:INFO:started request
+2021-07-20 18:43:06:root:INFO:ended request! Time taken : 2.616446018218994
+2021-07-20 18:43:10:root:INFO:started request
+2021-07-20 18:43:12:root:INFO:ended request! Time taken : 2.7374751567840576
+2021-07-20 18:43:16:root:INFO:started request
+2021-07-20 18:43:19:root:INFO:ended request! Time taken : 2.4148035049438477
+2021-07-20 18:43:22:root:INFO:started request
+2021-07-20 18:43:24:root:INFO:ended request! Time taken : 2.52353835105896
+2021-07-20 18:43:28:root:INFO:started request
+2021-07-20 18:43:31:root:INFO:ended request! Time taken : 2.7412092685699463
+2021-07-20 18:43:35:root:INFO:started request
+2021-07-20 18:43:38:root:INFO:ended request! Time taken : 2.7749876976013184
+2021-07-20 18:43:42:root:INFO:started request
+2021-07-20 18:43:45:root:INFO:ended request! Time taken : 2.6167142391204834
+2021-07-20 18:43:49:root:INFO:started request
+2021-07-20 18:43:52:root:INFO:ended request! Time taken : 2.786257266998291
+2021-07-20 18:43:55:root:INFO:started request
+2021-07-20 18:43:58:root:INFO:ended request! Time taken : 2.7082326412200928
+2021-07-20 18:44:01:root:INFO:started request
+2021-07-20 18:44:03:root:INFO:ended request! Time taken : 1.8881821632385254
+2021-07-20 18:44:07:root:INFO:started request
